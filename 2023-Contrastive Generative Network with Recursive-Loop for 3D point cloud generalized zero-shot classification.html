@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="关于网页内容的简短描述.">
+  <meta name="keywords" content="网页内容相关的关键词">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contrastive Generative Network with Recursive-Loop for 3D point cloud generalized zero-shot classification</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="../assets/static/css/bulma.min.css">
+  <link rel="stylesheet" href="../assets/static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="../assets/static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="../assets/static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="../assets/static/css/index.css">
+  <link rel="icon" href="网站图标路径">
+  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="../assets/static/js/fontawesome.all.min.js"></script>
+  <script src="../assets/static/js/bulma-carousel.min.js"></script>
+  <script src="../assets/static/js/bulma-slider.min.js"></script>
+  <script src="../assets/static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Contrastive Generative Network with Recursive-Loop for 3D point cloud generalized zero-shot classification</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://www.scopus.com/authid/detail.uri?authorId=57345363500">Yun Hao</a><sup>a b 1</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.scopus.com/authid/detail.uri?authorId=57212537637">Yukun Su</a><sup>a c 1</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.scopus.com/authid/detail.uri?authorId=57199116143">Guosheng Lin</a><sup>c</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.scopus.com/authid/detail.uri?authorId=57199116143">Hanjing Su</a><sup>f</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.scopus.com/authid/detail.uri?authorId=36603693400">Qingyao Wu</a><sup>a d e</sup></span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>a </sup> School of Software Engineering, South China University of Technology, Guangzhou, China</span>
+            <span class="author-block"><sup>b </sup> Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Guangzhou, China</span>
+            <span class="author-block"><sup>c </sup> Nanyang Technological University, Singapore</span>
+            <span class="author-block"><sup>d </sup> Pazhou Lab, Guangzhou, China</span>
+            <span class="author-block"><sup>e </sup> Peng Cheng Laboratory, Guangzhou, China</span>
+            <span class="author-block"><sup>f </sup> Peng Cheng Laboratory, Guangzhou, China</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://www.sciencedirect.com/science/article/pii/S0031320323005411"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <!-- <span class="link-block">
+                <a href="arxiv链接"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+              <!-- Video Link. -->
+              <span class="link-block">
+                <a href="Video链接"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/photon-git/CGRL"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <!-- <span class="link-block">
+                <a href="数据集链接"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a> -->
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">  <!--注释：demo视频模块-->
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser" autoplay muted loop playsinline height="100%">
+        <source src="../assets/static/videos/teaser.mp4"  <!--注释：视频路径-->
+                type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        <span class="dnerf">标题</span> 视频描述
+      </h2>
+    </div>
+  </div>
+</section>
+
+
+<!--
+<section class="hero is-light is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item item-steve">
+          <video poster="" id="steve" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/steve.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-chair-tp">
+          <video poster="" id="chair-tp" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/chair-tp.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-shiba">
+          <video poster="" id="shiba" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/shiba.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-fullbody">
+          <video poster="" id="fullbody" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/fullbody.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-blueshirt">
+          <video poster="" id="blueshirt" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/blueshirt.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-mask">
+          <video poster="" id="mask" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/mask.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-coffee">
+          <video poster="" id="coffee" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/coffee.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-toby">
+          <video poster="" id="toby" autoplay controls muted loop playsinline height="100%">
+            <source src="../assets/static/videos/toby2.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Generalized Zero-Shot Learning (GZSL) aims to recognize objects from both seen and unseen categories by transferring semantic knowledge and merely utilizing seen class data for training. Recent feature generation methods in the 2D image domain have made great progress. However, very little is known about its usefulness in 3D point cloud zero-shot learning. This work aims to facilitate research on 3D point cloud generalized zero-shot learning. Different from previous works, we focus on synthesizing the more high-level discriminative point cloud features. To this end, we design a representation enhancement strategy to generate the features. Specifically, we propose a Contrastive Generative Network with Recursive-Loop, termed as CGRL, which can be leveraged to enlarge the inter-class distances and narrow the intra-class gaps. By applying the contrastive representations to the generative model in a recursive-loop form, it can provide the self-guidance for the generator recurrently, which can help yield more discriminative features and train a better classifier. To validate the effectiveness of the proposed method, extensive experiments are conducted on three benchmarks, including ModelNet40, McGill, and ScanObjectNN. Experimental evaluations demonstrate the superiority of our approach and it can outperform the state-of-the-arts by a large margin. Code is available at https://github.com/photon-git/CGRL
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src="paper vedio链接"
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@article{HAO2023109843,
+      title = {Contrastive Generative Network with Recursive-Loop for 3D point cloud generalized zero-shot classification},
+      journal = {Pattern Recognition},
+      volume = {144},
+      pages = {109843},
+      year = {2023},
+      issn = {0031-3203},
+      doi = {https://doi.org/10.1016/j.patcog.2023.109843},
+      url = {https://www.sciencedirect.com/science/article/pii/S0031320323005411},
+      author = {Yun Hao and Yukun Su and Guosheng Lin and Hanjing Su and Qingyao Wu},
+      keywords = {3D point cloud, Generalized zero-shot, Contrastive learning, Recursive-loop},
+      abstract = {Generalized Zero-Shot Learning (GZSL) aims to recognize objects from both seen and unseen categories by transferring semantic knowledge and merely utilizing seen class data for training. Recent feature generation methods in the 2D image domain have made great progress. However, very little is known about its usefulness in 3D point cloud zero-shot learning. This work aims to facilitate research on 3D point cloud generalized zero-shot learning. Different from previous works, we focus on synthesizing the more high-level discriminative point cloud features. To this end, we design a representation enhancement strategy to generate the features. Specifically, we propose a Contrastive Generative Network with Recursive-Loop, termed as CGRL, which can be leveraged to enlarge the inter-class distances and narrow the intra-class gaps. By applying the contrastive representations to the generative model in a recursive-loop form, it can provide the self-guidance for the generator recurrently, which can help yield more discriminative features and train a better classifier. To validate the effectiveness of the proposed method, extensive experiments are conducted on three benchmarks, including ModelNet40, McGill, and ScanObjectNN. Experimental evaluations demonstrate the superiority of our approach and it can outperform the state-of-the-arts by a large margin. Code is available at https://github.com/photon-git/CGRL}
+      }</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

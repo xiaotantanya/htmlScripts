@@ -1,0 +1,17 @@
+institute_info:
+year: 2023
+data:
+  - id: 3
+    institute:
+      - "School of Software Engineering, South China University of Technology"
+      - "School of Computer Science and Engineering, Nanyang Technological University"
+      - "Wechat department at Tecent"
+      - "Pazhou Lab"
+      - "Peng Ceng Laboratory"
+    index: ["a", "a", "a", "b", "c", "ade"]
+  - id: 4
+    institute:
+      - "South China University of Technology Key Laboratory of Big Data and Intelligent Robot, Ministry of Education"
+      - "South China University of Technology Pazhou Lab, Guangzhou, China"
+      - "South China University of Technology Peng Cheng Laboratory, China"
+    index: ["a", "b", "c"]

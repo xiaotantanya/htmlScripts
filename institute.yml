@@ -1,0 +1,284 @@
+institute_info:
+  - year: 2023
+    data:
+      - id: 3
+        institute: ["School of Software Engineering, South China University of Technology","School of Computer Science and Engineering, Nanyang Technological University","Wechat department at Tecent","Pazhou Lab","Peng Ceng Laboratory"]
+        index: ["a","a","a","b","c","ade"]
+      - id: 4
+        institute: ["South China University of Technology Key Laboratory of Big Data and Intelligent Robot, Ministry of Education","South China University of Technology Pazhou Lab, Guangzhou, China","South China University of Technology Peng Cheng Laboratory, China"]
+        index: ["a","b","c"]
+      - id: 5
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, PR China","Pazhou Lab, Guangzhou, PR China","Peng Cheng Laboratory, PR China","School of Computer Science and Technology, Guangdong University of Technology, Guangzhou, PR China","EIAS Data Science Lab, College of Computer and Information Sciences, Prince Sultan University, Riyadh 11586, Saudi Arabia","School of Computer Science and Software Engineering, Shenzhen University, Shenzhen, PR China","School of Computer Science and Engineering, South China University of Technology, Guangzhou, PR China"]
+        index: ["ab","de","f","g","ac"]
+      - id: 6
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","School of Data Science and Information Engineering, Guizhou Minzu University, Guiyang, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Guangzhou, China","Pazhou Lab, Guangzhou, China","Peng Cheng Laboratory, Shenzhen, China","Department of Computer Science and Technology, Harbin Institute of Technology, Weihai, China"]
+        index: ["ade","abc","f"]
+  - year: 2022
+    data:
+      - id: 1
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Nanyang Technological University, Singapore, Singapore","Pazhou Lab, Guangzhou, China"]
+        index: ["ab","b","a","ac"]
+      - id: 2
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, Guangdong, China","Department of Mathematics, The University of Hong Kong, Hong Kong, China","School of Computer Science and Engineering, Nanyang Technological University, Singapore","Shenzhen Key Laboratory for High Performance Data Mining, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China","Department of Mathematics, The University of Hong Kong, Hong Kong, China","School of Software Engineering, South China University of Technology, Guangzhou, Guangdong, China"]
+        index: ["a","b","c","d","b","a"]
+      - id: 3
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, Guangdong, China","Pazhou Laboratory, Guangzhou, China","University of Adelaide, Adelaide, SA, Australia","Tencent AI Laboratory, Shenzhen, China","Department of Computer Science and Engineering, University of Texas at Arlington, Arlington, TX, USA"]
+        index: ["ab","a","a","c","de","a"]
+      - id: 4
+        institute: ["School of Software Engineering, South China University of Technology, China","Australia Centre for Robotic Vision, The University of Adelaide, Australia","School of Electronic & Information Engineering, Suzhou University of Science and Technology, China","School of Electronic & Information Engineering, Suzhou University of Science and Technology, China"]
+        index: ["a","b","a","c","d","a"]
+      - id: 5
+        institute: ["Guangdong-Hongkong-Macau Greater Bay Area Weather Research Center for Monitoring Warning and Forecasting, (Shenzhen Institute of Meteorological Innovation), China","South China University of Technology, School of Future Technology, China","South China University of Technology, School of Computer Science and Engineering, China","South China University of Technology, School of Software Engineering, China","Pazhou Lab, Guangzhou, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, China"]
+        index: ["ab","c","def"]
+      - id: 6
+        institute: ["South China University of Technology, Guangzhou, China","Guangzhou Laboratory, Guangzhou, China","AI Lab, Tencent, Shenzhen, China","Wuhan University, Wuhan, China"]
+        index: ["ab","c","ab","d","c","ab"]
+      - id: 7
+        institute: ["School of Software and Engineering, South China University of Technology","Nanyang Technological University","School of Software and Engineering, South China University of Technology Key Laboratory of Big Data and Intelligent Robot, Ministry of Education","azhou Lab, Guangzhou, China"]
+        index: ["ab","b","c","c","c","ad"]
+      - id: 8
+        institute: ["School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China","School of Computer Science and Engineering, Nanyang Technological University, Singapore","School of Software Engineering, South China University of Technology, Guangzhou, China","DAMO Academy, Alibaba Group, Hangzhou, China"]
+        index: ["ab","b","a","a","c","d"]
+      - id: 9
+        institute: ["GDUT, China","JNU, China","SCUT, China","Tencent, China","HKU, China"]
+        index: ["a","b","c","c","d","d","c","e"]
+      - id: 10
+        institute: ["South China University of Technology, China","Shenzhen Santachi Video Technology Co., Ltd, China","City University of Hong Kong, Hong Kong, China","Pazhou Lab, Guangzhou, China"]
+        index: ["a","a","b","b","c","ad"]
+      - id: 11
+        institute: ["School of Electrical Engineering, Guangxi University, Nanning, Guangxi, China","School of Software Engineering, and the Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, South China University of Technology, Guangzhou, China","Department of Mathematics, University of Hong Kong, Hong Kong"]
+        index: ["a","b","b","c","b"]
+      - id: 12
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Pazhou Lab, Guangzhou, China"]
+        index: ["a","a","a","a","a","ab"]
+      - id: 13
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","School of Data Science and Information Engineering, Guizhou Minzu University, Guiyang, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Guangzhou, China","Pazhou Lab, Guangzhou, China"]
+        index: ["abc","ac","a","ad"]
+      - id: 14
+        institute: ["College of Computer Science and Software, Shenzhen University, Shenzhen, China","School of Software Engineering, South China University of Technology, Guangzhou, China","School of Software Engineering, South China University of Technology, Guangzhou, China","School of Computer Science and Center for OPTIMAL, Northwestern Polytechnical University, Xi'an, China","Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China"]
+        index: ["a","b","b","c","d","a"]
+  - year: 2021
+    data:
+      - id: 1
+        institute: ["School of Software and Engineering, South China University of Technology Key Laboratory of Big Data and Intelligent Robot, Ministry of Education","School of Computer Science and Engineering, Nanyang Technological University"]
+        index: ["a","b","a"]
+      - id: 2
+        institute: ["South China University of Technology,School of Software and Engineering","Nanyang Technological University,School of Computer Science and Engineering"]
+        index: ["a","a","b","a"]
+      - id: 3
+        institute: ["South China University of Technology, Guangzhou, China","Tecent AI Lab Shenzhen, China","National University of Singapore, Singapore, Singapore"]
+        index: ["a","b","a","a","a"]
+      - id: 4
+        institute: ["South China University of Technology, Guangzhou, China","Tecent AI Lab Shenzhen, China","National University of Singapore, Singapore, Singapore"]
+        index: ["a","b"," ","b","a"]
+      - id: 5
+        institute: ["South China University of Technology, Guangzhou, China","Tecent AI Lab Shenzhen, China","National University of Singapore, Singapore, Singapore"]
+        index: ["a","b","c","a","a","a"]
+      - id: 6
+        institute: ["South China University of Technology, Guangzhou, China","Chinese Academy of Sciences, Shenzhen, China","Westlake University, Hangzhou, China","Tencent, Shenzhen, China"]
+        index: ["ab","cd","a","a","b","d"]
+      - id: 7
+        institute: ["College of Computer Science and Software, Shenzhen University, Shenzhen, China","School of Software Engineering, South China University of Technology, Guangzhou, China","Center for OPTIMAL, School of Computer Science, Northwestern Polytechnical University, Shanxi, Xi'an, China"]
+        index: ["a","b","b","c"]
+      - id: 8
+        institute: ["South China University of Technology, School of Software Engineering, Guangzhou 510006, China","Intelligent Healthcare Unit, Baidu, Beijing, China","Singapore Eye Research Institute, Singapore","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, China","Southern University of Science and Technology, Department of Computer Science and Engineering, Shenzhen, China","Foshan University, School of Electronic and Information Engineering, Foshan 528000, China","City University of Hong Kong, Hong Kong, China"]
+        index: ["a","bc","ad","e","f","g","ad"]
+      - id: 9
+        institute: ["The University of Hong Kong, Hong Kong, China","Shantou University, Shantou, China","South China University of Technology, Guangzhou, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Pazhou Laboratory, China"]
+        index: ["a","a","b","c","cd","a"]
+      - id: 10
+        institute: ["South China University of Technology, School of Software Engineering, China","Nanyang Technological University, School of Computer Science and Engineering, Singapore","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, China","Guangdong Artificial Intelligence and Digital Economy Laboratory, China"]
+        index: ["ac","a","b","ad"]
+      - id: 11
+        institute: ["South China University of Technology, China","PengCheng Laboratory, China"]
+        index: ["ab","ab","b","a","a"]
+      - id: 12
+        institute: ["The University of Hong Kong, Hong Kong, China","South China University of Technology, Guangzhou, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Guangzhou, China","Pazhou Lab, Guangzhou, China"]
+        index: ["a","bcd","a"]
+      - id: 13
+        institute: ["School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapor","School of Software Engineering, South China University of Technology, Guangzhou, China","Pazhou Lab, Guangzhou, China","School of Computer Science and Technology, China University of Mining and Technology, Xuzhou 221116"]
+        index: ["a","a","a","bc","d"]
+      - id: 14
+        institute: ["College of Computer Science and Software, Shenzhen University, Shenzhen, 518060, P.R. China","School of Software Engineering, South China University of Technology, Guangzhou, China","Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China"]
+        index: ["a","a","b","c","a"]
+      - id: 15
+        institute: ["South China University of Technology, Guangzhou, China","University of Adelaide, Adelaide, SA, Australia"]
+        index: ["a","a","a","a","b","a"]
+      - id: 16
+        institute: ["South China University of Technology, Guangzhou, Guangdong, China","Tencent AI Lab, Shenzhen, Guangdong, China"]
+        index: ["a","b","a","a","a","b","a"]
+      - id: 17
+        institute: ["Shenzhen Key Laboratory for High Performance Data Mining, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China","Shenzhen Key Laboratory for High Performance Data Mining, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China","School of Intelligent Engineering, Sun Yat-sen University, Guangzhou, China","School of Software Engineering, South China University of Technology, Guangzhou, China","College of Computer Science, Zhejiang University, Hangzhou, China","College of Computer Science and Software, Shenzhen University, Shenzhen, China"]
+        index: ["a","a","b","c","d","e"]
+  - year: 2020
+    data:
+      - id: 1
+        institute: ["College of Computer Science and Software, Shenzhen University, Shenzhen, China","School of Software Engineering, South China University of Technology, Guangzhou, China","School of Software Engineering, South China University of Technology, Guangzhou, China","Department of Computer Science, The University of Hong Kong, Hong Kong","School of Computer Science, Northwestern Polytechnical University, Xi'an, China","Center for OPTIMAL, Northwestern Polytechnical University, Xi'an, China"]
+        index: ["a","b","b","c","de","a"]
+      - id: 2
+        institute: ["Shenzhen Key Laboratory for High Performance Data Mining, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China","School of Intelligent Systems Engineering, Sun Yat-sen University, Shenzhen, China","School of Computing Science, Zhejiang University, Hangzhou, China","College of Computer Science and Software, Shenzhen University, Shenzhen, China","School of Software Engineering, South China University of Technology, Guangzhou, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Guangzhou, China"]
+        index: ["a","a","b","c","d","ef","a"]
+      - id: 3
+        institute: ["South China University of Technology, Guangzhou, China","The University of Hong Kong, Hong Kong, China"]
+        index: ["a","b","b","a"]
+      - id: 4
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education, Guangzhou, China","Nanyang Technological University, Singapore, Singapore"]
+        index: ["ab","c","ab","ab"]
+      - id: 5
+        institute: ["Nanyang Technological University","Zhejiang University","Huazhong University of Science and Technology","School of Software Engineering, South China University of Technology","Key Laboratory of Big Data and Intelligent Robot, Ministry of Education"]
+        index: ["ab","a","ac","de"]
+      - id: 6
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Pazhou Laboratory, Guangzhou, China","Junzhou Huang are with Tencent AI Lab, Shenzhen, China"]
+        index: ["ab","c","a","c","ab","a","a"]
+      - id: 7
+        institute: ["South China University of Technology, Guangzhou, China","The University of Hong Kong, Hong Kong, China"]
+        index: ["a","b","a","b","a"]
+      - id: 8
+        institute: ["Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China","School of Intelligent Engineering, Sun Yat-Sen University, China","School of Software Engineering, South China University of Technology, China"]
+        index: ["a","a","a","a","b","c"]
+      - id: 9
+        institute: ["School of Software Engineering, South China University of Technology, China","College of Mathematics and Informatics, South China Agricultural University, China"]
+        index: ["a","b","a","a"]
+  - year: 2019
+    data:
+      - id: 1
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","MIT-IBM Watson AI Lab, Cambridge, MA, USA","Tencent AI Laboratory, Shenzhen, China"]
+        index: ["a","b","a","c","a","a"]
+      - id: 2
+        institute: ["College of Intelligence and Computing, Tianjin University, Tianjin, China","Australian Centre for Visual Technologies, School of Computer Science, The University of Adelaide, Adelaide, SA, Australia","School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, China","School of Software Engineering, South China University of Technology, Guangzhou, China"]
+        index: ["a","b","c","d","d"]
+      - id: 3
+        institute: ["South China University of Technology, Guangzhou, China","Hong Kong Baptist University, Hong Kong, China"]
+        index: ["a","a","a","a","b","a"]
+      - id: 4
+        institute: ["College of Computer Science and Software, Shenzhen University, Shenzhen, PR, China","School of Software Engineering, South China University of Technology, Guangzhou, China","State Key Laboratory for Novel Software Technology Nanjing University, PR, China"]
+        index: ["a","a","b","c"]
+      - id: 5
+        institute: ["Nanyang Technological University","Institute for Infocomm Research A*STAR","Stanford University","South China University of Technology"]
+        index: ["a","a","b","c","d","e"]
+      - id: 6
+        institute: ["Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences","University of Chinese Academy of Sciences","Shenzhen University","South China University of Technology","Chongqing University"," Peking University Shenzhen Graduate School"]
+        index: ["a","ab","c","d","e","f"]
+      - id: 7
+        institute: ["South China University of Technology, Guangzhou, China","Tencent AI Lab, Shenzhen, China","Sixth Affiliated Hospital of Sun Yat-sen University, Guangzhou, China"]
+        index: ["a","b","b","b","a","c","c","c","b","b"," ","a","a","b"]
+      - id: 8
+        institute: ["South China University of Technology, Guangzhou, China","Inception Institute of Artificial Intelligence, Abu Dhabi, UAE","Peng Cheng Laboratory, Shenzhen, China","CVTE Research, Guangzhou, China","Cixi Institute of Biomedical Engineering, Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, Ningbo, China"]
+        index: ["a","b","a","d","a","d","ac","e"]
+      - id: 9
+        institute: ["South China University of Technology, Guangzhou, China","Guangzhou Shiyuan Electronic Technology Company Limited, Guangzhou, China","Peng Cheng Laboratory, Shenzhen, China","Cixi Institute of Biomedical Engineering, Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, Ningbo, China"]
+        index: ["a","a","d","a","b","b","a"]
+      - id: 10
+        institute: ["South China University of Technology","Baidu, Inc.","Hong Kong Baptist University"]
+        index: ["a","a","b","c","a","a"]
+      - id: 11
+        institute: ["South China University of Technology, Guangzhou, China","Guangzhou Shiyuan Electronic Technology Company Limited, Guangzhou, China","Peng Cheng Laboratory, Shenzhen, China","Cixi Institute of Biomedical Engineering, Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, Ningbo, China"]
+        index: ["a","a","d","a","b","b","a"]
+      - id: 12
+        institute: ["South China University of Technology"]
+        index: ["a"," ","a","a"]
+      - id: 13
+        institute: ["South China University of Technology, Guangzhou, China","CVTE Research, Guangzhou, China","Zhongshan Ophthalmic Center Sun Yat-sen University, Guangzhou, China","Tomey Corporation, Nagoya, Japan","Southern University of Science and Technology, Shenzhen, China","Cixi Institute of BioMedical Engineering, Ningbo Institute of Industrial Technology, Chinese Academy of Sciences, Beijing, China"]
+        index: ["a","a","a","a","b","b","c","c","d","a","a","ef"]
+      - id: 14
+        institute: ["South China University of Technology, Guangzhou, China","Tencent AI Lab, Shenzhen, China","Sixth Affiliated Hospital of Sun Yat-sen University, Guangzhou, China"]
+        index: ["a","b","b","b","a","c","c","c","b","b","b","a","a","b"]
+      - id: 15
+        institute: ["Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China","Peking University Shenzhen Graduate School, Shenzhen, China","School of Software Engineering, South China University of Technology, Guangzhou, China","School of Computing Science, Zhejiang University, Hangzhou, China","School of Big Data and Software Engineering, Chongqing University, Chongqing, China"]
+        index: ["a","a","b","c","d","e"]
+  - year: 2018
+    data:
+      - id: 1
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Mathematics Department, Hong Kong Baptist University, Hong Kong","Center for Quantum Computation and Intelligent Systems, University of Technology Sydney, Ultimo, NSW, Australia"]
+        index: ["a","a","a","b","a","c"]
+      - id: 2
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Laboratory and Equipment Management Department, South University of Science and Technology, Shenzhen, China","College of Computer Science and Software, Shenzhen University, Shenzhen, China","Chinese Academy of Sciences, Shenzhen Institutes of Advanced Technology, Shenzhen, China"]
+        index: ["a","b","c","d","a"]
+      - id: 3
+        institute: ["South China University of Technology","The University of Adelaide","University of Texas at Arlington and Tencent AI Lab"]
+        index: ["a","a","b","a","a","a","c"]
+      - id: 4
+        institute: ["School of Electronic and Information Engineering, South China University of Technology","School of Software Engineering, South China University of Technology","School of Automation Science and Engineering, South China University of Technology"]
+        index: ["a","b","b","a","b","c"]
+      - id: 5
+        institute: ["School of Software Eigineering, South China University of Technology, China","School of Computer Science, The University of Adelaide, Australia","Tencent AI Lab, China; University of Texas at Arlington, America"]
+        index: ["a","a","a","b","c","a"]
+      - id: 6
+        institute: ["South China University of Technology, Guangzhou, China","Tencent AI Lab, Shenzhen, China"]
+        index: ["a","a","a","b","b","a","a"]
+      - id: 7
+        institute: ["School of Software Engineering, South China University of Technology, China","Computer Vision Laboratory, ETH Zurich, Switzerland"]
+        index: ["a","b","a","a","a","a"]
+      - id: 8
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Pazhou Laboratory, Guangzhou, China","School of Computer Science, The University of Adelaide, Adelaide, SA, Australia","School of Electronic & Information Engineering, Suzhou University of Science and Technology, Suzhou, China","College of Intelligence and Computing, Tianjin University, Tianjin, China"]
+        index: ["ab","c","a","d","e","a"]
+      - id: 9
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China"]
+        index: ["a","a","a","a"]
+      - id: 10
+        institute: ["South China University of Technology, Guangzhou","Shenzhen University, Shenzhen"]
+        index: ["a","b","b","b","a"]
+      - id: 11
+        institute: ["School of Software, South China University of Technology, Guangzhou, China","Department of Mathematics, Hong Kong Baptist University, Kowloon Tong, Hong Kong, China"]
+        index: ["a","a","a","a","b","a","a"]
+  - year: 2017
+    data:
+      - id: 1
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, Shi, China","School of Informatics, Guangdong University of Foreign Studies, Guangzhou, China"]
+        index: ["a","a","a","a","a","a","b"]
+      - id: 2
+        institute: ["Shenzhen Key Laboratory of Internet Information Collaboration, Shenzhen Graduate School, Harbin Institute of Technology, Shenzhen, China","Department of Mathematics, Hong Kong Baptist University, Hong Kong","School of Computer Engineering, Nanyang Technological University, Singapore","School of Software Engineering, South China University of Technology, Guangzhou, China"]
+        index: ["a","b","c","a","d"]
+      - id: 3
+        institute: ["South China University of Technology, Guangzhou Shi, China","School of Computer Science and Engineering, Nanyang Technological University, Singapore","Management Science and Information Systems Department, Rutgers, State University of New Jersey, New Brunswick, NJ"]
+        index: ["a","b","c","a","a","a","a"]
+      - id: 4
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, Shi, China","School of Informatics, Guangdong University of Foreign Studies, Guangzhou, China"]
+        index: ["a","a","a","a","a","a","b"]
+      - id: 5
+        institute: ["School of Computer Science and Engineering, South China University of Technology, Guangzhou, 510006, China.","School of Software Engineering, South China University of Technology, Guangzhou, 510006, China.","State Key Laboratory for Novel Software Technology, Nanjing University, China.","Wuzhou Red Cross Hospital, Wuzhou, 543002, China."]
+        index: ["a","b","bc","b","d"]
+      - id: 6
+        institute: ["School of Information Science and Technology, Guangdong University of Foreign Studies, China","School of Software Engineering, South China University of Technology, China","The Second Affiliated Hospital, Guangzhou University of Chinese Medicine, China","School of Business, Guangdong University of Foreign Studies, China","Faculty of Built Environment, University of New South Wales, Australia"]
+        index: ["a","a","b","c","de"]
+      - id: 7
+        institute: ["School of Software Eigineering, South China University of Technology","Department of Mathematics, University of Texas at Arlington"]
+        index: ["a","a","a","b","a"]
+      - id: 8
+        institute: ["School of Software Engineering, South China University of Technology, China","Computer Vision Laboratory, ETH Zurich, Switzerland","Department of Mathematics, Hong Kong Baptist University, Hong Kong, China"]
+        index: ["a","b","c","a","a","a","a"]
+      - id: 9
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China","Department of Mathematics, Hong Kong Baptist University, Hong Kong, China"]
+        index: ["a","a","b","a","a","a"]
+      - id: 10
+        institute: ["College of Computer Science and Software, Shenzhen University, Shenzhen, P.R. China","School of Computer Science and Center for OPTIMAL, Northwestern Polytechnical University, Xi'an, Shanxi, P. R. China"]
+        index: ["a","a","b","c","c"]
+      - id: 11
+        institute: ["Computer Center, Hebei University of Economics and Business, Shijiazhuang, 300000, Hebei, China","School of Software Engineering, South China University of Technology, Guangzhou, 510006, China","The State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China"]
+        index: ["a","b","b","bc","b"]
+  - year: 2016
+    data:
+      - id: 1
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, Guangdong, China","Mathematics Department, Hong Kong Baptist University, Hong Kong"]
+        index: ["a","a","a","a","b"]
+      - id: 2
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou 510000, China"]
+        index: ["a","a","a","a","a","a"]
+      - id: 3
+        institute: ["School of Computer Science and Engineering, South China University of Technology, Guangzhou 510006, China","School of Software Engineering, South China University of Technology, Guangzhou 510006, China"]
+        index: ["a","b","b","b"]
+      - id: 4
+        institute: ["Department of Mathematics, Hong Kong Baptist University, Kowloon Tong, Hong Kong","School of Software Engineering, South China University of Technology, Guangzhou, PR China","State Key Laboratory for Novel Software Technology, Nanjing University, P.R. China"]
+        index: ["a","bc","a"]
+      - id: 5
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China"]
+        index: ["a","a","a","a"]
+      - id: 6
+        institute: ["The School of Software Engineering, South China University of Technology, Guangzhou, China","School of Informatics, Guangdong University of Foreign Studies, Guangzhou, China","The College of Computer Science and Software, Shenzhen University, Shenzhen, China"]
+        index: ["a","a","b","c","a"]
+      - id: 7
+        institute: ["School of Software Engineering, South China University of Technology, Guangzhou, China"]
+        index: ["a","a","a","a","a"]
+      - id: 8
+        institute: ["South China University of Technology, Baidu Inc.","South China University of Technology (P.R.C)","Huazhong University of Science and Technology","HP Labs Singapore","Baidu Inc.","Hong Kong University of Science and Technology","Guangdong Polytechnic Normal University","Nanyang Technological University","Kyoto University"]
+        index: ["a","b","b","b","c","d","e","f","e","g","h","i"]

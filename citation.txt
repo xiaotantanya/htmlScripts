@@ -1,0 +1,1050 @@
+2023
+3.@ARTICLE{10093043,
+  author={Su, Yukun and Deng, Jingliang and Sun, Ruizhou and Lin, Guosheng and Su, Hanjing and Wu, Qingyao},
+  journal={IEEE Transactions on Multimedia}, 
+  title={A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2023.3264883}}
+4.@article{Sun_Su_Wu_2023, title={DENet: Disentangled Embedding Network for Visible Watermark Removal}, volume={37}, url={https://ojs.aaai.org/index.php/AAAI/article/view/25337}, DOI={10.1609/aaai.v37i2.25337}, abstractNote={Adding visible watermark into image is a common copyright protection method of medias. Meanwhile, public research on watermark removal can be utilized as an adversarial technology to help the further development of watermarking. Existing watermark removal methods mainly adopt multi-task learning networks, which locate the watermark and restore the background simultaneously. However, these approaches view the task as an image-to-image reconstruction problem, where they only impose supervision after the final output, making the high-level semantic features shared between different tasks. To this end, inspired by the two-stage coarse-refinement network, we propose a novel contrastive learning mechanism to disentangle the high-level embedding semantic information of the images and watermarks, driving the respective network branch more oriented.
+Specifically, the proposed mechanism is leveraged for watermark image decomposition, which aims to decouple the clean image and watermark hints in the high-level embedding space. This can guarantee the learning representation of the restored image enjoy more task-specific cues.
+In addition, we introduce a self-attention-based enhancement module, which promotes the network’s ability to capture semantic information among different regions, leading to further improvement on the contrastive learning mechanism. To validate the effectiveness of our proposed method, extensive experiments are conducted on different challenging benchmarks. Experimental evaluations show that our approach can achieve state-of-the-art performance and yield high-quality images. The code is available at: https://github.com/lianchengmingjue/DENet.}, number={2}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Sun, Ruizhou and Su, Yukun and Wu, Qingyao}, year={2023}, month={Jun.}, pages={2411-2419} }
+5.@article{KHAN2023108547,
+title = {Unsupervised domain adaptation using fuzzy rules and stochastic hierarchical convolutional neural networks},
+journal = {Computers and Electrical Engineering},
+volume = {105},
+pages = {108547},
+year = {2023},
+issn = {0045-7906},
+doi = {https://doi.org/10.1016/j.compeleceng.2022.108547},
+url = {https://www.sciencedirect.com/science/article/pii/S0045790622007625},
+author = {Siraj Khan and Muhammad Asim and Salabat Khan and Ahmad Musyafa and Qingyao Wu},
+keywords = {Unsupervised domain adaptation, Fuzzy rules, Principal component analysis, Stochastic hierarchical convolutional neural network, Selective multi-threshold entropy optimization algorithm},
+abstract = {Unsupervised domain adaptation (UDA) describes a set of techniques for using previously acquired knowledge from labeled original data to support task completion in comparable but unlabeled target data. Existing UDA methods often use two classifiers to detect misaligned local areas between the original and prey vocations, resulting in poor implementation. To address this issue, we propose a fuzzy rules and stochastic classifier-based domain adaptation framework called SH-CNN+SMTEOA. Initially, the cross-domain mixed sampling approach is used to test the original and prey data. After that, the Principal Component Analysis is used to extract the characteristics, and fuzzy criteria are used to choose the suitable characteristics. Finally, we introduce the Stochastic Hierarchical Convolutional Neural Network for classification and the Selective Multi-Threshold Entropy Optimization Algorithm for judging a target instance’s dependability based on its predictive multi-threshold values. Investigations on UDA benchmark datasets reveal that the proposed method outperforms other methods in classification.}
+}
+6.Wang, W., Wu, Q. & Li, C. iEnhancer-DCSA: identifying enhancers via dual-scale convolution and spatial attention. BMC Genomics 24, 393 (2023). https://doi.org/10.1186/s12864-023-09468-1
+2022
+1.@InProceedings{10.1007/978-3-031-20068-7_17,
+author="Su, Yukun
+and Lin, Guosheng
+and Sun, Ruizhou
+and Wu, Qingyao",
+editor="Avidan, Shai
+and Brostow, Gabriel
+and Ciss{\'e}, Moustapha
+and Farinella, Giovanni Maria
+and Hassner, Tal",
+title="General Object Pose Transformation Network from Unpaired Data",
+booktitle="Computer Vision -- ECCV 2022",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="292--310",
+abstract="Object pose transformation is a challenging task. Yet, most existing pose transformation networks only focus on synthesizing humans. These methods either rely on the keypoints information or rely on the manual annotations of the paired target pose images for training. However, collecting such paired data is laboring and the cue of keypoints is inapplicable to general objects. In this paper, we address a problem of novel general object pose transformation from unpaired data. Given a source image of an object that provides appearance information and a desired pose image as reference in the absence of paired examples, we produce a depiction of the object in that specified pose, retaining the appearance of both the object and background. Specifically, to preserve the source information, we propose an adversarial network with {\$}{\$}{\{}{\backslash}textbf {\{}S{\}}{\}}{\$}{\$}Spatial-{\$}{\$}{\{}{\backslash}textbf {\{}S{\}}{\}}{\$}{\$}Structural (SS) block and {\$}{\$}{\{}{\backslash}textbf {\{}T{\}}{\}}{\$}{\$}Texture-{\$}{\$}{\{}{\backslash}textbf {\{}S{\}}{\}}{\$}{\$}Style-{\$}{\$}{\{}{\backslash}textbf {\{}C{\}}{\}}{\$}{\$}Color (TSC) block after the correlation matching module that facilitates the output to be semantically corresponding to the target pose image while contextually related to the source image. In addition, we can extend our network to complete multi-object and cross-category pose transformation. Extensive experiments demonstrate the effectiveness of our method which can create more realistic images when compared to those of recent approaches in terms of image quality. Moreover, we show the practicality of our method for several applications.",
+isbn="978-3-031-20068-7"
+}
+2.@ARTICLE{9160895,
+  author={Wu, Hanrui and Yan, Yuguang and Lin, Guosheng and Yang, Min and Ng, Michael K. and Wu, Qingyao},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Iterative Refinement for Multi-Source Visual Domain Adaptation}, 
+  year={2022},
+  volume={34},
+  number={6},
+  pages={2810-2823},
+  doi={10.1109/TKDE.2020.3014697}}
+3.@ARTICLE{9149832,
+  author={Cao, Jiezhang and Guo, Yong and Wu, Qingyao and Shen, Chunhua and Huang, Junzhou and Tan, Mingkui},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Improving Generative Adversarial Networks With Local Coordinate Coding}, 
+  year={2022},
+  volume={44},
+  number={1},
+  pages={211-227},
+  doi={10.1109/TPAMI.2020.3012096}}
+4.@INPROCEEDINGS{8578906,
+  author={Deng, Chaorui and Wu, Qi and Wu, Qingyao and Hu, Fuyuan and Lyu, Fan and Tan, Mingkui},
+  booktitle={2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition}, 
+  title={Visual Grounding via Accumulated Attention}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={7746-7755},
+  doi={10.1109/CVPR.2018.00808}}
+5.@article{YIN2022199,
+title = {DF-Net: Deep fusion network for multi-source vessel segmentation},
+journal = {Information Fusion},
+volume = {78},
+pages = {199-208},
+year = {2022},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2021.09.010},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253521001871},
+author = {Pengshuai Yin and Hongmin Cai and Qingyao Wu},
+keywords = {Retinal vessel segmentation, Image segmentation, Feature fusion},
+abstract = {Accurate retinal vessel segmentation is very challenging. Recently, the deep learning based method has greatly improved performance. However, the non-vascular structures usually harm the performance and some low contrast small vessels are hard to be detected after several down-sampling operations. To solve these problems, we design a deep fusion network (DF-Net) including multiscale fusion, feature fusion and classifier fusion for multi-source vessel image segmentation. The multiscale fusion module allows the network to detect blood vessels with different scales. The feature fusion module fuses deep features with vessel responses extracted from a Frangi filter to obtain a compact yet domain invariant feature representation. The classifier fusion module provides the network more supervision. DF-Net also predicts the parameter of the Frangi filter to avoid manually picking the best parameters. The learned Frangi filter enhances the feature map of the multiscale network and restores the edge information loss caused by down-sampling operations. The proposed end-to-end network is easy to train and the inference time for one image is 41ms on a GPU. The model outperforms state-of-the-art methods and achieves the accuracy of 96.14%, 97.04%, 98.02% from three publicly available fundus image datasets DRIVE, STARE, CHASEDB1, respectively. The code is available at https://github.com/y406539259/DF-Net.}
+}
+6.@ARTICLE{9031418,
+  author={Zhang, Yifan and Zhao, Peilin and Wu, Qingyao and Li, Bin and Huang, Junzhou and Tan, Mingkui},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Cost-Sensitive Portfolio Selection via Deep Reinforcement Learning}, 
+  year={2022},
+  volume={34},
+  number={1},
+  pages={236-248},
+  doi={10.1109/TKDE.2020.2979700}}
+7.@article{Su_Lin_Hao_Cao_Wang_Wu_2022, title={Self-Supervised Object Localization with Joint Graph Partition}, volume={36}, url={https://ojs.aaai.org/index.php/AAAI/article/view/20127}, DOI={10.1609/aaai.v36i2.20127}, abstractNote={Object localization aims to generate a tight bounding box for the target object, which is a challenging problem that has been deeply studied in recent years. Since collecting bounding-box labels is time-consuming and laborious, many researchers focus on weakly supervised object localization (WSOL). As the recent appealing self-supervised learning technique shows its powerful function in visual tasks, in this paper, we take the early attempt to explore unsupervised object localization by self-supervision. Specifically, we adopt different geometric transformations to image and utilize their parameters as pseudo labels for self-supervised learning. Then, the class-agnostic activation map (CAAM) is used to highlight the target object potential regions. However, such attention maps merely focus on the most discriminative part of the objects, which will affect the quality of the predicted bounding box. Based on the motivation that the activation maps of different transformations of the same image should be equivariant, we further design a siamese network that encodes the paired images and propose a joint graph cluster partition mechanism in an unsupervised manner to enhance the object co-occurrent regions. To validate the effectiveness of the proposed method, extensive experiments are conducted on CUB-200-2011, Stanford Cars and FGVC-Aircraft datasets. Experimental results show that our method outperforms state-of-the-art methods using the same level of supervision, even outperforms some weakly-supervised methods.}, number={2}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Su, Yukun and Lin, Guosheng and Hao, Yun and Cao, Yiwen and Wang, Wenjun and Wu, Qingyao}, year={2022}, month={Jun.}, pages={2289-2297} }
+8.@ARTICLE{9500221,
+  author={Luo, Haonan and Lin, Guosheng and Yao, Yazhou and Tang, Zhenmin and Wu, Qingyao and Hua, Xiansheng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Dense Semantics-Assisted Networks for Video Action Recognition}, 
+  year={2022},
+  volume={32},
+  number={5},
+  pages={3073-3084},
+  doi={10.1109/TCSVT.2021.3100842}}
+9.@INPROCEEDINGS{10184598,
+  author={Yan, Yuguang and Wu, Hanrui and Ye, Yuzhong and Bi, Chaoyang and Lu, Min and Liu, Dapeng and Wu, Qingyao and Ng, Michael K.},
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)}, 
+  title={Transferable Feature Selection for Unsupervised Domain Adaptation : Extended Abstract}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={3855-3856},
+  doi={10.1109/ICDE55515.2023.00354}}
+10.@article{SU2022108857,
+title = {EpNet: Power lines foreign object detection with Edge Proposal Network and data composition},
+journal = {Knowledge-Based Systems},
+volume = {249},
+pages = {108857},
+year = {2022},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2022.108857},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705122004099},
+author = {Junyu Su and Yukun Su and Yu Zhang and Weiqiang Yang and Huichou Huang and Qingyao Wu},
+keywords = {Foreign object detection, Data composition, Power lines},
+abstract = {Power lines foreign object detection task is to detect objects suspending on power lines, they might be kites, plastic bags or anything else, which could be a potential risk to power system. However, this task remains a challenge due to the lack of data, because these data can only be produced by a few major video surveillance companies, who treat their data as valuable property and will not share it with others. Without massive training data, we could not obtain an excellent neural network. In this paper, we introduce a new data composition method to generate artificial data and help alleviate the data shortage problem. What is more, we propose a new detection method called Edge Proposal Network (EpNet) to reduce wrong proposal locations and increase detection performance. At last, we conduct several experiments to verify the effectiveness of the two methods, and some discussion experiments to gain a deeper understanding of the composited data.}
+}
+11.@ARTICLE{9266052,
+  author={Han, Chao and Chen, Jian and Tan, Mingkui and Ng, Michael K. and Wu, Qingyao},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={A Tensor-Based Markov Chain Model for Heterogeneous Information Network Collective Classification}, 
+  year={2022},
+  volume={34},
+  number={9},
+  pages={4063-4076},
+  doi={10.1109/TKDE.2020.3039533}}
+12.Hao, Y., Wu, J., Huang, X. et al. Speaker extraction network with attention mechanism for speech dialogue system. SOCA 16, 111–119 (2022). https://doi.org/10.1007/s11761-022-00340-w
+13.Wang, W., Lai, L., Chen, J. et al. CAM-based non-local attention network for weakly supervised fire detection. SOCA 16, 133–142 (2022). https://doi.org/10.1007/s11761-022-00336-6
+14.@ARTICLE{9364918,
+  author={Chen, Xiaojun and Chen, Renjie and Wu, Qingyao and Nie, Feiping and Yang, Min and Mao, Rui},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Semisupervised Feature Selection via Structured Manifold Learning}, 
+  year={2022},
+  volume={52},
+  number={7},
+  pages={5756-5766},
+  doi={10.1109/TCYB.2021.3052847}}
+2021
+1.@INPROCEEDINGS{9711113,
+  author={Su, Yukun and Lin, Guosheng and Wu, Qingyao},
+  booktitle={2021 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  title={Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={13308-13318},
+  doi={10.1109/ICCV48922.2021.01308}}
+2.@INPROCEEDINGS {9710219,
+author = {Y. Su and R. Sun and G. Lin and Q. Wu},
+booktitle = {2021 IEEE/CVF International Conference on Computer Vision (ICCV)},
+title = {Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation},
+year = {2021},
+volume = {},
+issn = {},
+pages = {6984-6994},
+abstract = {Data augmentation is vital for deep learning neural networks. By providing massive training samples, it helps to improve the generalization ability of the model. Weakly supervised semantic segmentation (WSSS) is a challenging problem that has been deeply studied in recent years, conventional data augmentation approaches for WSSS usually employ geometrical transformations, random cropping and color jittering. However, merely increasing the same contextual semantic data does not bring much gain to the networks to distinguish the objects, e.g., the correct image-level classification of &quot;aeroplane&quot; may be not only due to the recognition of the object itself, but also its co-occurrence context like &quot;sky&quot;, which will cause the model to focus less on the object features. To this end, we present a Context Decoupling Augmentation (CDA) method, to change the inherent context in which the objects appear and thus drive the network to remove the dependence between object instances and contextual information. To validate the effectiveness of the proposed method, extensive experiments on PASCAL VOC 2012 and COCO datasets with several alternative network architectures demonstrate that CDA can boost various popular WSSS methods to the new state-of-the-art by a large margin. Code is available at https://github.com/suyukun666/CDA},
+keywords = {training;deep learning;image segmentation;image recognition;image color analysis;semantics;neural networks},
+doi = {10.1109/ICCV48922.2021.00692},
+url = {https://doi.ieeecomputersociety.org/10.1109/ICCV48922.2021.00692},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {oct}
+}
+3.@inproceedings{10.1145/3474085.3475248,
+author = {Su, Yukun and Lin, Guosheng and Sun, Ruizhou and Hao, Yun and Wu, Qingyao},
+title = {Modeling the Uncertainty for Self-Supervised 3D Skeleton Action Representation Learning},
+year = {2021},
+isbn = {9781450386517},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3474085.3475248},
+doi = {10.1145/3474085.3475248},
+abstract = {Self-supervised learning (SSL) has been proved very effective in learning representations from unlabeled data in language and vision domains. Yet, very few instrumental self-supervised approaches exist for 3D skeleton action understanding, and directly applying the existing SSL methods from other domains for skeleton action learning may suffer from misalignment of representations and some limitations. In this paper, we consider that a good representation learning encoder can distinguish the underlying features of different actions, which can make the similar motions closer while pushing the dissimilar motions away. There exists, however, some uncertainties in the skeleton actions due to the inherent ambiguity of 3D skeleton pose in different viewpoints or the sampling algorithm in contrastive learning, thus, it is ill-posed to differentiate the action features in the deterministic embedding space. To address these issues, we rethink the distance between action features and propose to model each action representation into the probabilistic embedding space to alleviate the uncertainties upon encountering the ambiguous 3D skeleton inputs. To validate the effectiveness of the proposed method, extensive experiments are conducted on Kinetics, NTU60, NTU120, and PKUMMD datasets with several alternative network architectures. Experimental evaluations demonstrate the superiority of our approach and through which, we can gain significant performance improvement without using extra labeled data.},
+booktitle = {Proceedings of the 29th ACM International Conference on Multimedia},
+pages = {769–778},
+numpages = {10},
+keywords = {uncertainty, 3D skeleton action, probabilistic embedding space, self-supervised},
+location = {Virtual Event, China},
+series = {MM '21}
+}
+4.@article{Zhong2021MVTONMV,
+  title={MV-TON: Memory-based Video Virtual Try-on network},
+  author={Xiaojing Zhong and Zhonghua Wu and Taizhe Tan and Guosheng Lin and Qingyao Wu},
+  journal={Proceedings of the 29th ACM International Conference on Multimedia},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:237142197}
+}
+5.@inproceedings{10.1145/3474085.3475578,
+author = {Li, Minli and Zhao, Peilin and Zhang, Yifan and Niu, Shuaicheng and Wu, Qingyao and Tan, Mingkui},
+title = {Structure-Aware Mathematical Expression Recognition with Sequence-Level Modeling},
+year = {2021},
+isbn = {9781450386517},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3474085.3475578},
+doi = {10.1145/3474085.3475578},
+abstract = {Mathematical expression recognition (MER) aims to convert an image of mathematical expressions into a Latex sequence. In practice, the task of MER is challenging, since 1) the images of mathematical expressions often contain complex structure relationships, e.g., fractions, matrixes, and subscripts; 2) the generated Latex sequences can be very complex and they have to satisfy strict syntax rules. Existing methods, however, often ignore the complex dependence among image regions, resulting in poor feature representation. In addition, they may fail to capture the rigorous relations among different formula symbols as they consider MER as a common language generation task. To address these issues, we propose a Structure-Aware Sequence-Level (SASL) model for MER. First, to better represent and recognize the visual content of formula images, we propose a structure-aware module to capture the relationship among different symbols. Meanwhile, the sequence-level modeling helps the model to concentrate on the generation of entire sequences. To make the problem feasible, we cast the generation problem into a Markov decision process (MDP) and seek to learn a Latex sequence generating policy. Based on MDP, we learn SASL by maximizing the matching score of each image-sequence pair to obtain the generation policy. Extensive experiments on the IM2LATEX-100K dataset verify the effectiveness and superiority of the proposed method.},
+booktitle = {Proceedings of the 29th ACM International Conference on Multimedia},
+pages = {5038–5046},
+numpages = {9},
+keywords = {mathematical expression recognition, structure-aware module, sequence-level modeling},
+location = {Virtual Event, China},
+series = {MM '21}
+}
+6.@inproceedings{10.1145/3404835.3462890,
+author = {Wang, Jiachun and Yuan, Fajie and Chen, Jian and Wu, Qingyao and Yang, Min and Sun, Yang and Zhang, Guoxiao},
+title = {StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking},
+year = {2021},
+isbn = {9781450380379},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3404835.3462890},
+doi = {10.1145/3404835.3462890},
+abstract = {Deep learning has brought great progress for the sequential recommendation (SR) tasks. With advanced network architectures, sequential recommender models can be stacked with many hidden layers, e.g., up to 100 layers on real-world recommendation datasets. Training such a deep network is difficult because it can be computationally very expensive and takes much longer time, especially in situations where there are tens of billions of user-item interactions. To deal with such a challenge, we present StackRec, a simple, yet very effective and efficient training framework for deep SR models by iterative layer stacking. Specifically, we first offer an important insight that hidden layers/blocks in a well-trained deep SR model have very similar distributions. Enlightened by this, we propose the stacking operation on the pre-trained layers/blocks to transfer knowledge from a shallower model to a deep model, then we perform iterative stacking so as to yield a much deeper but easier-to-train SR model. We validate the performance of StackRec by instantiating it with four state-of-the-art SR models in three practical scenarios with real-world datasets. Extensive experiments show that StackRec achieves not only comparable performance, but also substantial acceleration in training time, compared to SR models that are trained from scratch. Codes are available at https://github.com/wangjiachun0426/StackRec.},
+booktitle = {Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {357–366},
+numpages = {10},
+keywords = {recommender systems, training acceleration, knowledge transfer},
+location = {<conf-loc>, <city>Virtual Event</city>, <country>Canada</country>, </conf-loc>},
+series = {SIGIR '21}
+}
+7.@ARTICLE{9487499,
+  author={Chen, Xiaojun and Ye, Yuzhong and Wu, Qingyao and Nie, Feiping},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Fast Manifold Ranking With Local Bipartite Graph}, 
+  year={2021},
+  volume={30},
+  number={},
+  pages={6744-6756},
+  doi={10.1109/TIP.2021.3096082}}
+8.@article{YIN2021330,
+title = {Deep level set learning for optic disc and cup segmentation},
+journal = {Neurocomputing},
+volume = {464},
+pages = {330-341},
+year = {2021},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2021.08.102},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231221012996},
+author = {Pengshuai Yin and Yanwu Xu and Jinhui Zhu and Jiang Liu and Chang’an Yi and Huichou Huang and Qingyao Wu},
+keywords = {Optic disc and cup segmentation, Image segmentation, Medical image processing},
+abstract = {Optic disc and cup segmentation play an essential step towards automatic retinal diagnose system. The task is very challenging since the boundary between optic disc and cup is weak and the existing segmentation network with cross-entropy loss is hard to inject domain-specific knowledge. To solve the problem, we propose a level set based deep learning method for optic disc and cup segmentation. Particularly, we treat the output of the neural network as a level set and add several constraints to make the predicted level set satisfy some characteristics, such as the length constraint and region constraint. The length term lets the boundary tend to smooth while the region term lets the response inside the predicted area tend to be the same. The region term considers the relationship between pixels inside optic disc or cup while the cross-entropy loss treats the segmentation as a pixel-wise classification without considering the relationship between pixels. We conduct extensive experiments on several datasets including ORIGA and REFUGE and DRISHTI-GS dataset. The experiment results verify the effectiveness of our method.}
+}
+9.@article{WU2021106773,
+title = {Joint Visual and Semantic Optimization for zero-shot learning},
+journal = {Knowledge-Based Systems},
+volume = {215},
+pages = {106773},
+year = {2021},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.106773},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705121000368},
+author = {Hanrui Wu and Yuguang Yan and Sentao Chen and Xiangkang Huang and Qingyao Wu and Michael K. Ng},
+keywords = {Zero-shot learning, Generalized zero-shot learning, Orthogonal projection},
+abstract = {Zero-shot learning (ZSL) aims to classify instances whose classes could be unseen during training. Most existing ZSL methods project visual or semantic features into the space of the other one, or into a common subspace. The main goal of projection is to find out the similar features in the latent subspace. However, existing methods barely consider common features that preserve knowledge, here we refer to these features as the shared concepts, which are essential to model the relationship between the visual and semantic spaces. In this paper, we exploit the underlying concepts shared by both visual and semantic features in a latent common subspace and propose to match their latent visual and semantic representations. To reduce domain shift and information loss, we introduce reconstruction losses for both visual and semantic features. As a result, the reconstruction regularizations are added to the similar features and thereby obtain knowledge preserving shared concepts via the proposed method. Mathematically, it is formulated as the minimization problem for mutual orthogonal projection to their latent common subspace. The problem involves two projection variables, thus we develop an algorithm based on the Gauss–Seidel iteration scheme and split the problem into two subproblems in the scheme. These two subproblems are further solved by searching algorithms based on the Barzilai–Borwein stepsize. Extensive experiments on six benchmark data sets are conducted to demonstrate that the accuracy of the proposed method is better than that of existing ZSL methods.}
+}
+10.@article{YIN2021106839,
+title = {Graph neural network for 6D object pose estimation},
+journal = {Knowledge-Based Systems},
+volume = {218},
+pages = {106839},
+year = {2021},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.106839},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705121001027},
+author = {Pengshuai Yin and Jiayong Ye and Guoshen Lin and Qingyao Wu},
+keywords = {Pose estimation, Image processing, Deep learning},
+abstract = {6D object pose estimation plays an important role in various applications such as robot manipulation and virtual reality. In this paper, we introduce a graph convolution neural network based method to addresses the problem of estimating the 6D pose of objects from a single RGB-D image. The proposed method fuses the appearance feature of the RGB image with the geometry feature of point clouds to predict pixel-level pose and the network also predicts pixel-level confidences to prune outlier predictions. The inner structure information of point cloud is learned by a graph convolution neural network. Specially, we adopt a residual graph convolution module to learn a discriminative feature. Our network enables end-to-end training and fast inference. The extensive experiments verify the method and the model achieves state-of-the-art for the LINEMOD and LINEMOD-OCCLUSION dataset (ADD-S: 88.68 and 65.38 respectively).}
+}
+11.@article{XIE202198,
+title = {Towards effective deep transfer via attentive feature alignment},
+journal = {Neural Networks},
+volume = {138},
+pages = {98-109},
+year = {2021},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2021.01.022},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608021000307},
+author = {Zheng Xie and Zhiquan Wen and Yaowei Wang and Qingyao Wu and Mingkui Tan},
+keywords = {Deep transfer, Knowledge distillation, Attention mechanism},
+abstract = {Training a deep convolutional network from scratch requires a large amount of labeled data, which however may not be available for many practical tasks. To alleviate the data burden, a practical approach is to adapt a pre-trained model learned on the large source domain to the target domain, but the performance can be limited when the source and target domain data distributions have large differences. Some recent works attempt to alleviate this issue by imposing feature alignment over the intermediate feature maps between the source and target networks. However, for a source model, many of the channels/spatial-features for each layer can be irrelevant to the target task. Thus, directly applying feature alignment may not achieve promising performance. In this paper, we propose an Attentive Feature Alignment (AFA) method for effective domain knowledge transfer by identifying and attending on the relevant channels and spatial features between two domains. To this end, we devise two learnable attentive modules at both the channel and spatial levels. We then sequentially perform attentive spatial- and channel-level feature alignments between the source and target networks, in which the target model and attentive module are learned simultaneously. Moreover, we theoretically analyze the generalization performance of our method, which confirms its superiority to existing methods. Extensive experiments on both image classification and face recognition demonstrate the effectiveness of our method. The source code and the pre-trained models are available at https://github.com/xiezheng-cs/AFAhttps://github.com/xiezheng-cs/AFA.}
+}
+12.@article{10.1145/3469856,
+author = {Wu, Hanrui and Wu, Qingyao and Ng, Michael K.},
+title = {Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation},
+year = {2021},
+issue_date = {January 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {40},
+number = {1},
+issn = {1046-8188},
+url = {https://doi.org/10.1145/3469856},
+doi = {10.1145/3469856},
+abstract = {Domain adaptation aims at improving the performance of learning tasks in a target domain by leveraging the knowledge extracted from a source domain. To this end, one can perform knowledge transfer between these two domains. However, this problem becomes extremely challenging when the data of these two domains are characterized by different types of features, i.e., the feature spaces of the source and target domains are different, which is referred to as heterogeneous domain adaptation (HDA). To solve this problem, we propose a novel model called Knowledge Preserving and Distribution Alignment (KPDA), which learns an augmented target space by jointly minimizing information loss and maximizing domain distribution alignment. Specifically, we seek to discover a latent space, where the knowledge is preserved by exploiting the Laplacian graph terms and reconstruction regularizations. Moreover, we adopt the Maximum Mean Discrepancy to align the distributions of the source and target domains in the latent space. Mathematically, KPDA is formulated as a minimization problem with orthogonal constraints, which involves two projection variables. Then, we develop an algorithm based on the Gauss–Seidel iteration scheme and split the problem into two subproblems, which are solved by searching algorithms based on the Barzilai–Borwein (BB) stepsize. Promising results demonstrate the effectiveness of the proposed method.},
+journal = {ACM Trans. Inf. Syst.},
+month = {sep},
+articleno = {16},
+numpages = {29},
+keywords = {transfer learning, domain adaptation, local structure, reconstruction, distribution alignment, Heterogeneous domain adaptation}
+}
+13.@article{Li2021CycleSegNetOC,
+  title={CycleSegNet: Object Co-Segmentation With Cycle Refinement and Region Correspondence},
+  author={Guankai Li and Chi Zhang and Guosheng Lin},
+  journal={IEEE Transactions on Image Processing},
+  year={2021},
+  volume={30},
+  pages={5652-5664},
+  url={https://api.semanticscholar.org/CorpusID:230523812}
+}
+14.@article{10.1016/j.patcog.2021.108154,
+author = {Zhong, Weichan and Chen, Xiaojun and Wu, Qingyao and Yang, Min and Huang, Joshua Zhexue},
+title = {Selection of Diverse Features with a Diverse Regularization},
+year = {2021},
+issue_date = {Dec 2021},
+publisher = {Elsevier Science Inc.},
+address = {USA},
+volume = {120},
+number = {C},
+issn = {0031-3203},
+url = {https://doi.org/10.1016/j.patcog.2021.108154},
+doi = {10.1016/j.patcog.2021.108154},
+journal = {Pattern Recogn.},
+month = {dec},
+numpages = {13},
+keywords = {Regularization, Feature selection, Supervised feature selection, Diverse feature}
+}
+15.@ARTICLE{8807218,
+  author={Tan, Mingkui and Hu, Zhibin and Yan, Yuguang and Cao, Jiezhang and Gong, Dong and Wu, Qingyao},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Learning Sparse PCA with Stabilized ADMM Method on Stiefel Manifold}, 
+  year={2021},
+  volume={33},
+  number={3},
+  pages={1078-1088},
+  doi={10.1109/TKDE.2019.2935449}}
+16.@ARTICLE{8910490,
+  author={Zhang, Yifan and Zhao, Peilin and Niu, Shuaicheng and Wu, Qingyao and Cao, Jiezhang and Huang, Junzhou and Tan, Mingkui},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Online Adaptive Asymmetric Active Learning With Limited Budgets}, 
+  year={2021},
+  volume={33},
+  number={6},
+  pages={2680-2692},
+  doi={10.1109/TKDE.2019.2955078}}
+17.@ARTICLE{9146686,
+  author={Yang, Min and Li, Chengming and Shen, Ying and Wu, Qingyao and Zhao, Zhou and Chen, Xiaojun},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Hierarchical Human-Like Deep Neural Networks for Abstractive Text Summarization}, 
+  year={2021},
+  volume={32},
+  number={6},
+  pages={2744-2757},
+  doi={10.1109/TNNLS.2020.3008037}}
+2020
+1.@ARTICLE{8712566,
+  author={Chen, Xiaojun and Chen, Renjie and Wu, Qingyao and Fang, Yixiang and Nie, Feiping and Huang, Joshua Zhexue},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={LABIN: Balanced Min Cut for Large-Scale Data}, 
+  year={2020},
+  volume={31},
+  number={3},
+  pages={725-736},
+  doi={10.1109/TNNLS.2019.2909425}}
+2.@ARTICLE{9226120,
+  author={Yang, Min and Liu, Junhao and Shen, Ying and Zhao, Zhou and Chen, Xiaojun and Wu, Qingyao and Li, Chengming},
+  journal={IEEE Transactions on Image Processing}, 
+  title={An Ensemble of Generation- and Retrieval-Based Image Captioning With Dual Generator Generative Adversarial Network}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={9627-9640},
+  doi={10.1109/TIP.2020.3028651}}
+3.@article{10.1145/3391229,
+author = {Wu, Hanrui and Yan, Yuguang and Ng, Michael K. and Wu, Qingyao},
+title = {Domain-Attention Conditional Wasserstein Distance for Multi-Source Domain Adaptation},
+year = {2020},
+issue_date = {August 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {11},
+number = {4},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3391229},
+doi = {10.1145/3391229},
+abstract = {Multi-source domain adaptation has received considerable attention due to its effectiveness of leveraging the knowledge from multiple related sources with different distributions to enhance the learning performance. One of the fundamental challenges in multi-source domain adaptation is how to determine the amount of knowledge transferred from each source domain to the target domain. To address this issue, we propose a new algorithm, called Domain-attention Conditional Wasserstein Distance (DCWD), to learn transferred weights for evaluating the relatedness across the source and target domains. In DCWD, we design a new conditional Wasserstein distance objective function by taking the label information into consideration to measure the distance between a given source domain and the target domain. We also develop an attention scheme to compute the transferred weights of different source domains based on their conditional Wasserstein distances to the target domain. After that, the transferred weights can be used to reweight the source data to determine their importance in knowledge transfer. We conduct comprehensive experiments on several real-world data sets, and the results demonstrate the effectiveness and efficiency of the proposed method.},
+journal = {ACM Trans. Intell. Syst. Technol.},
+month = {may},
+articleno = {44},
+numpages = {19},
+keywords = {attention, Domain adaptation, multiple sources, optimal transport}
+}
+4.@InProceedings{10.1007/978-3-030-58548-8_5,
+author="Su, Yukun
+and Lin, Guosheng
+and Zhu, Jinhui
+and Wu, Qingyao",
+editor="Vedaldi, Andrea
+and Bischof, Horst
+and Brox, Thomas
+and Frahm, Jan-Michael",
+title="Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition",
+booktitle="Computer Vision -- ECCV 2020",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="74--90",
+abstract="This paper introduces a new method for recognizing violent behavior by learning contextual relationships between related people from human skeleton points. Unlike previous work, we first formulate 3D skeleton point clouds from human skeleton sequences extracted from videos and then perform interaction learning on these 3D skeleton point clouds. A novel Skeleton Points Interaction Learning (SPIL) module, is proposed to model the interactions between skeleton points. Specifically, by constructing a specific weight distribution strategy between local regional points, SPIL aims to selectively focus on the most relevant parts of them based on their features and spatial-temporal position information. In order to capture diverse types of relation information, a multi-head mechanism is designed to aggregate different features from independent heads to jointly handle different types of relationships between points. Experimental results show that our model outperforms the existing networks and achieves new state-of-the-art performance on video violence datasets.",
+isbn="978-3-030-58548-8"
+}
+5.@inbook{inbook,
+author = {Chen, Lichang and Lin, Guosheng and Wang, Shijie and Wu, Qingyao},
+year = {2020},
+month = {11},
+pages = {539-554},
+title = {Graph Edit Distance Reward: Learning to Edit Scene Graph},
+isbn = {978-3-030-58528-0},
+doi = {10.1007/978-3-030-58529-7_32}
+}
+6.@ARTICLE{9142394,
+  author={Zhang, Yifan and Wei, Ying and Wu, Qingyao and Zhao, Peilin and Niu, Shuaicheng and Huang, Junzhou and Tan, Mingkui},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Collaborative Unsupervised Domain Adaptation for Medical Image Diagnosis}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={7834-7844},
+  doi={10.1109/TIP.2020.3006377}}
+7.@article{WU2020105155,
+title = {Geometric Knowledge Embedding for unsupervised domain adaptation},
+journal = {Knowledge-Based Systems},
+volume = {191},
+pages = {105155},
+year = {2020},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2019.105155},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705119305088},
+author = {Hanrui Wu and Yuguang Yan and Yuzhong Ye and Michael K. Ng and Qingyao Wu},
+keywords = {Domain adaptation, Graph-based model, Geometric knowledge, Graph convolutional network, Maximum Mean Discrepancy},
+abstract = {Domain adaptation aims to transfer auxiliary knowledge from a source domain to enhance the learning performance on a target domain. Recent studies have suggested that deep networks are able to achieve promising results for domain adaptation problems. However, deep neural networks cannot reveal the underlying geometric information from input data. Indeed, such geometric information is very useful for describing the relationship between the samples from source and target domains. In this paper, we propose a novel learning algorithm named GKE, which stands for Geometric Knowledge Embedding. In GKE, we use a graph-based model to explore the underlying geometric structure of the input source and target data based on their similarities. Concretely, we develop a graph convolutional network to learn discriminative representations based on the constructed graph. To obtain effective transferable representations, we match source and target domains by reducing the Maximum Mean Discrepancy (MMD) between their learned representations. Extensive experiments on real-world data sets demonstrate that the proposed method outperforms existing domain adaption methods.}
+}
+8.@article{YANG202053,
+title = {Hierarchical fusion of common sense knowledge and classifier decisions for answer selection in community question answering},
+journal = {Neural Networks},
+volume = {132},
+pages = {53-65},
+year = {2020},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2020.08.005},
+url = {https://www.sciencedirect.com/science/article/pii/S089360802030294X},
+author = {Min Yang and Lei Chen and Ziyu Lyu and Junhao Liu and Ying Shen and Qingyao Wu},
+keywords = {Answer selection, Common sense knowledge, Hierarchical attention, Semantic compositionality},
+abstract = {The goal of answer selection is to select the most applicable answers from an answer candidate pool. It plays an essential role in numerous applications in information retrieval (IR) and natural language processing (NLP). In this paper, we introduce a novel Knowledge-enhanced Hierarchical Attention mechanism for Answer Selection (KHAAS), which fully exploits the common sense knowledge from knowledge bases (KBs) and input textual information. Specifically, we first devise a three-stage knowledge-enhanced hierarchical attention mechanism, including the word-level attention, the phrase-level attention, and the document-level attention to learn the fact-aware intra-document features within questions and answers by fusing the knowledge from both the question/answer and KB. Hence, we can leverage the semantic compositionality of the question/answer and learn more holistic knowledge-enhanced intra-document features of the question/answer at three levels of granularity. Second, after obtaining the knowledge-enhanced question and answer representations, we employ a multi-perspective co-attention network to learn the complex inter-document relationships between the question and answer representations from different representation subspaces, which can capture the interactive semantics of the question and answer representations at three levels. Finally, we propose an adaptive decision fusion method to learn a more effective and robust ensemble answer selection model by adaptively combining multiple classifiers learned with different levels of features. Experimental results on three large-scale answer selection datasets demonstrate that KHAAS consistently outperforms the compared methods.}
+}
+9.@INPROCEEDINGS{9053667,
+  author={He, Zhenhao and He, Yuhong and Wu, Qingyao and Chen, Jian},
+  booktitle={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Fg2seq: Effectively Encoding Knowledge for End-To-End Task-Oriented Dialog}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={8029-8033},
+  doi={10.1109/ICASSP40776.2020.9053667}}
+2019
+1.@ARTICLE{8737877,
+  author={Zeng, Runhao and Gan, Chuang and Chen, Peihao and Huang, Wenbing and Wu, Qingyao and Tan, Mingkui},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization}, 
+  year={2019},
+  volume={28},
+  number={12},
+  pages={5797-5808},
+  doi={10.1109/TIP.2019.2922108}}
+2.@ARTICLE{8624407,
+  author={Lyu, Fan and Wu, Qi and Hu, Fuyuan and Wu, Qingyao and Tan, Mingkui},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Attend and Imagine: Multi-Label Image Classification With Visual Attention and Recurrent Neural Networks}, 
+  year={2019},
+  volume={21},
+  number={8},
+  pages={1971-1981},
+  doi={10.1109/TMM.2019.2894964}}
+3.@article{10.1145/3309537,
+author = {Wu, Hanrui and Yan, Yuguang and Ye, Yuzhong and Min, Huaqing and Ng, Michael K. and Wu, Qingyao},
+title = {Online Heterogeneous Transfer Learning by Knowledge Transition},
+year = {2019},
+issue_date = {May 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {10},
+number = {3},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3309537},
+doi = {10.1145/3309537},
+abstract = {In this article, we study the problem of online heterogeneous transfer learning, where the objective is to make predictions for a target data sequence arriving in an online fashion, and some offline labeled instances from a heterogeneous source domain are provided as auxiliary data. The feature spaces of the source and target domains are completely different, thus the source data cannot be used directly to assist the learning task in the target domain. To address this issue, we take advantage of unlabeled co-occurrence instances as intermediate supplementary data to connect the source and target domains, and perform knowledge transition from the source domain into the target domain. We propose a novel online heterogeneous transfer learning algorithm called Online Heterogeneous Knowledge Transition (OHKT) for this purpose. In OHKT, we first seek to generate pseudo labels for the co-occurrence data based on the labeled source data, and then develop an online learning algorithm to classify the target sequence by leveraging the co-occurrence data with pseudo labels. Experimental results on real-world data sets demonstrate the effectiveness and efficiency of the proposed algorithm.},
+journal = {ACM Trans. Intell. Syst. Technol.},
+month = {may},
+articleno = {26},
+numpages = {19},
+keywords = {Transitive transfer learning, online learning, co-occurrence data, heterogeneous transfer learning}
+}
+4.@ARTICLE{7931609,
+  author={Chen, Xiaojun and Huang, Joshua Z. and Wu, Qingyao and Yang, Min},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics}, 
+  title={Subspace Weighting Co-Clustering of Gene Expression Data}, 
+  year={2019},
+  volume={16},
+  number={2},
+  pages={352-364},
+  doi={10.1109/TCBB.2017.2705686}}
+5.@INPROCEEDINGS{9010760,
+  author={Zhang, Chi and Lin, Guosheng and Liu, Fayao and Guo, Jiushuang and Wu, Qingyao and Yao, Rui},
+  booktitle={2019 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  title={Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={9586-9594},
+  doi={10.1109/ICCV.2019.00968}}
+6.@inproceedings{ijcai2019p743,
+  title     = {Knowledge-enhanced Hierarchical Attention for Community Question Answering with Multi-task and Adaptive Learning},
+  author    = {Yang, Min and Chen, Lei and Chen, Xiaojun and Wu, Qingyao and Zhou, Wei and Shen, Ying},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {5349--5355},
+  year      = {2019},
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/743},
+  url       = {https://doi.org/10.24963/ijcai.2019/743},
+}
+7.@inproceedings{10.1007/978-3-030-32239-7_40,
+author = {Zhang, Yifan and Chen, Hanbo and Wei, Ying and Zhao, Peilin and Cao, Jiezhang and Fan, Xinjuan and Lou, Xiaoying and Liu, Hailing and Hou, Jinlong and Han, Xiao and Yao, Jianhua and Wu, Qingyao and Tan, Mingkui and Huang, Junzhou},
+title = {From Whole Slide Imaging to Microscopy: Deep Microscopy Adaptation Network for Histopathology Cancer Image Classification},
+year = {2019},
+isbn = {978-3-030-32238-0},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-030-32239-7_40},
+doi = {10.1007/978-3-030-32239-7_40},
+abstract = {Deep learning (DL) has achieved remarkable performance on digital pathology image classification with whole slide images (WSIs). Unfortunately, high acquisition costs of WSIs hinder the applications in practical scenarios, and most pathologists still use microscopy images (MSIs) in their workflows. However, it is especially challenging to train DL models on MSIs, given limited image qualities and high annotation costs. Alternatively, directly applying a WSI-trained DL model on MSIs usually performs poorly due to huge gaps between WSIs and MSIs. To address these issues, we propose to exploit deep unsupervised domain adaptation to adapt DL models trained on the labeled WSI domain to the unlabeled MSI domain. Specifically, we propose a novel Deep Microscopy Adaptation Network (DMAN). By reducing domain discrepancies via adversarial learning and entropy minimization, and alleviating class imbalance with sample reweighting, DMAN can classify MSIs effectively even without MSI annotations. Extensive experiments on colon cancer diagnosis demonstrate the effectiveness of DMAN and its potential in customizing models for each pathologist’s microscope.},
+booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI 2019: 22nd International Conference, Shenzhen, China, October 13–17, 2019, Proceedings, Part I},
+pages = {360–368},
+numpages = {9},
+keywords = {Microscopy image, Unsupervised domain adaptation, Deep learning, While slide image, Histopathology image classification},
+location = {Shenzhen, China}
+}
+8.@InProceedings{10.1007/978-3-030-32239-7_88,
+author="Zhang, Shihao
+and Fu, Huazhu
+and Yan, Yuguang
+and Zhang, Yubing
+and Wu, Qingyao
+and Yang, Ming
+and Tan, Mingkui
+and Xu, Yanwu",
+editor="Shen, Dinggang
+and Liu, Tianming
+and Peters, Terry M.
+and Staib, Lawrence H.
+and Essert, Caroline
+and Zhou, Sean
+and Yap, Pew-Thian
+and Khan, Ali",
+title="Attention Guided Network for Retinal Image Segmentation",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2019",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="797--805",
+abstract="Learning structural information is critical for producing an ideal result in retinal image segmentation. Recently, convolutional neural networks have shown a powerful ability to extract effective representations. However, convolutional and pooling operations filter out some useful structural information. In this paper, we propose an Attention Guided Network (AG-Net) to preserve the structural information and guide the expanding operation. In our AG-Net, the guided filter is exploited as a structure sensitive expanding path to transfer structural information from previous feature maps, and an attention block is introduced to exclude the noise and reduce the negative influence of background further. The extensive experiments on two retinal image segmentation tasks (i.e., blood vessel segmentation, optic disc and cup segmentation) demonstrate the effectiveness of our proposed method.",
+isbn="978-3-030-32239-7"
+}
+9.@InProceedings{10.1007/978-3-030-32239-7_15,
+author="Yin, Pengshuai
+and Wu, Qingyao
+and Xu, Yanwu
+and Min, Huaqing
+and Yang, Ming
+and Zhang, Yubing
+and Tan, Mingkui",
+editor="Shen, Dinggang
+and Liu, Tianming
+and Peters, Terry M.
+and Staib, Lawrence H.
+and Essert, Caroline
+and Zhou, Sean
+and Yap, Pew-Thian
+and Khan, Ali",
+title="PM-Net: Pyramid Multi-label Network for Joint Optic Disc and Cup Segmentation",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2019",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="129--137",
+abstract="Accurate segmentation of optic disc (OD) and optic cup (OC) is a fundamental task for fundus image analysis. Most existing methods focus on segmenting OD and OC inside the optic nerve head (ONH) area but paying little attention to accurate ONH localization. In this paper, we propose a Mask-RCNN based paradigm to localize ONH and jointly segment OD and OC in a whole fundus image. However, directly using Mask-RCNN faces some critical issues: First, for some glaucoma cases, the highly overlapping of OD and OC may lead to the missing of OC proposals. Second, some proposals may not fully surround the object, and thus the segmentation can be incomplete. Last, the instance head in Mask-RCNN cannot well incorporate the prior such as the OC is inside the OD. To address these issues, we first propose a segmentation based region proposal network (RPN) to improve the accuracy of proposals and then propose a pyramid RoIAlign module to aggregate the multi-level information to get a better feature representation. Furthermore, we employ a multi-label head strategy to incorporate the prior for better performance. Extensive experiments verify our method.",
+isbn="978-3-030-32239-7"
+}
+10.@article{Yan_Tan_Xu_Cao_Ng_Min_Wu_2019, title={Oversampling for Imbalanced Data via Optimal Transport}, volume={33}, url={https://ojs.aaai.org/index.php/AAAI/article/view/4503}, DOI={10.1609/aaai.v33i01.33015605}, abstractNote={&lt;p&gt;The issue of data imbalance occurs in many real-world applications especially in medical diagnosis, where normal cases are usually much more than the abnormal cases. To alleviate this issue, one of the most important approaches is the oversampling method, which seeks to synthesize minority class samples to balance the numbers of different classes. However, existing methods barely consider global geometric information involved in the distribution of minority class samples, and thus may incur distribution mismatching between real and synthetic samples. In this paper, relying on optimal transport (Villani 2008), we propose an oversampling method by exploiting global geometric information of data to make synthetic samples follow a similar distribution to that of minority class samples. Moreover, we introduce a novel regularization based on synthetic samples and shift the distribution of minority class samples according to loss information. Experiments on toy and real-world data sets demonstrate the efficacy of our proposed method in terms of multiple metrics.&lt;/p&gt;}, number={01}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Yan, Yuguang and Tan, Mingkui and Xu, Yanwu and Cao, Jiezhang and Ng, Michael and Min, Huaqing and Wu, Qingyao}, year={2019}, month={Jul.}, pages={5605-5612} }
+11.@InProceedings{10.1007/978-3-030-32239-7_15,
+author="Yin, Pengshuai
+and Wu, Qingyao
+and Xu, Yanwu
+and Min, Huaqing
+and Yang, Ming
+and Zhang, Yubing
+and Tan, Mingkui",
+editor="Shen, Dinggang
+and Liu, Tianming
+and Peters, Terry M.
+and Staib, Lawrence H.
+and Essert, Caroline
+and Zhou, Sean
+and Yap, Pew-Thian
+and Khan, Ali",
+title="PM-Net: Pyramid Multi-label Network for Joint Optic Disc and Cup Segmentation",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2019",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="129--137",
+abstract="Accurate segmentation of optic disc (OD) and optic cup (OC) is a fundamental task for fundus image analysis. Most existing methods focus on segmenting OD and OC inside the optic nerve head (ONH) area but paying little attention to accurate ONH localization. In this paper, we propose a Mask-RCNN based paradigm to localize ONH and jointly segment OD and OC in a whole fundus image. However, directly using Mask-RCNN faces some critical issues: First, for some glaucoma cases, the highly overlapping of OD and OC may lead to the missing of OC proposals. Second, some proposals may not fully surround the object, and thus the segmentation can be incomplete. Last, the instance head in Mask-RCNN cannot well incorporate the prior such as the OC is inside the OD. To address these issues, we first propose a segmentation based region proposal network (RPN) to improve the accuracy of proposals and then propose a pyramid RoIAlign module to aggregate the multi-level information to get a better feature representation. Furthermore, we employ a multi-label head strategy to incorporate the prior for better performance. Extensive experiments verify our method.",
+isbn="978-3-030-32239-7"
+}
+12.@article{article,
+author = {Guo, Yong and Chen, Qi and Chen, Jian and Wu, Qingyao and Shi, Qinfeng and Tan, Mingkui},
+year = {2019},
+month = {11},
+pages = {2726-2737},
+title = {Auto-Embedding Generative Adversarial Networks For High Resolution Image Synthesis},
+volume = {21},
+journal = {IEEE Transactions on Multimedia},
+doi = {10.1109/TMM.2019.2908352}
+}
+13.@InProceedings{10.1007/978-3-030-32956-3_6,
+author="Zhang, Shihao
+and Yan, Yuguang
+and Yin, Pengshuai
+and Qiu, Zhen
+and Zhao, Wei
+and Cao, Guiping
+and Chen, Wan
+and Yuan, Jin
+and Higashita, Risa
+and Wu, Qingyao
+and Tan, Mingkui
+and Liu, Jiang",
+editor="Fu, Huazhu
+and Garvin, Mona K.
+and MacGillivray, Tom
+and Xu, Yanwu
+and Zheng, Yalin",
+title="Guided M-Net for High-Resolution Biomedical Image Segmentation with Weak Boundaries",
+booktitle="Ophthalmic Medical Image Analysis",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="43--51",
+abstract="Biomedical image segmentation plays an important role in automatic disease diagnosis. However, some particular biomedical images have blurred object boundaries, and may contain noises due to the limited performance of imaging device. This issue will highly affects segmentation performance, and will become even severer when images have to be resized to lower resolution on a machine with limited memory. To address this, we propose a guide-based model, called G-MNet, which seeks to exploit edge information from guided map to guide the corresponding lower resolution outputs. The guided map is generated from multi-scale input to provide a better guidance. In these ways, the segmentation model will be more robust to noises and blurred object boundaries. Extensive experiments on two biomedical image datasets demonstrate the effectiveness of the proposed method.",
+isbn="978-3-030-32956-3"
+}
+14.@InProceedings{10.1007/978-3-030-32239-7_40,
+author="Zhang, Yifan
+and Chen, Hanbo
+and Wei, Ying
+and Zhao, Peilin
+and Cao, Jiezhang
+and Fan, Xinjuan
+and Lou, Xiaoying
+and Liu, Hailing
+and Hou, Jinlong
+and Han, Xiao
+and Yao, Jianhua
+and Wu, Qingyao
+and Tan, Mingkui
+and Huang, Junzhou",
+editor="Shen, Dinggang
+and Liu, Tianming
+and Peters, Terry M.
+and Staib, Lawrence H.
+and Essert, Caroline
+and Zhou, Sean
+and Yap, Pew-Thian
+and Khan, Ali",
+title="From Whole Slide Imaging to Microscopy: Deep Microscopy Adaptation Network for Histopathology Cancer Image Classification",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2019",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="360--368",
+abstract="Deep learning (DL) has achieved remarkable performance on digital pathology image classification with whole slide images (WSIs). Unfortunately, high acquisition costs of WSIs hinder the applications in practical scenarios, and most pathologists still use microscopy images (MSIs) in their workflows. However, it is especially challenging to train DL models on MSIs, given limited image qualities and high annotation costs. Alternatively, directly applying a WSI-trained DL model on MSIs usually performs poorly due to huge gaps between WSIs and MSIs. To address these issues, we propose to exploit deep unsupervised domain adaptation to adapt DL models trained on the labeled WSI domain to the unlabeled MSI domain. Specifically, we propose a novel Deep Microscopy Adaptation Network (DMAN). By reducing domain discrepancies via adversarial learning and entropy minimization, and alleviating class imbalance with sample reweighting, DMAN can classify MSIs effectively even without MSI annotations. Extensive experiments on colon cancer diagnosis demonstrate the effectiveness of DMAN and its potential in customizing models for each pathologist's microscope.",
+isbn="978-3-030-32239-7"
+}
+15.@article{YANG2019240,
+title = {Hierarchical human-like strategy for aspect-level sentiment classification with sentiment linguistic knowledge and reinforcement learning},
+journal = {Neural Networks},
+volume = {117},
+pages = {240-248},
+year = {2019},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2019.05.021},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608019301613},
+author = {Min Yang and Qingnan Jiang and Ying Shen and Qingyao Wu and Zhou Zhao and Wei Zhou},
+keywords = {Aspect-level sentiment classification, Sentiment linguistic knowledge, Human reading cognition, Reinforcement learning},
+abstract = {Aspect-level sentiment analysis is a crucial problem in fine-grained sentiment analysis, which aims to automatically predict the sentiment polarity of the specific aspect in its context. Although remarkable progress has been made by deep learning based methods, aspect-level sentiment classification in real-world remains a challenging task. The human reading cognition is rarely explored in sentiment classification, which however is able to improve the effectiveness of the sentiment classification by considering the process of reading comprehension and logical thinking. Motivated by the process of the human reading cognition that follows a hierarchical routine, we propose a novel Hierarchical Human-like strategy for Aspect-level Sentiment classification (HHAS). The model contains three major components, a sentiment-aware mutual attention module, an aspect-specific knowledge distillation module, and a reinforcement learning based re-reading module, which are consistent with the stages of the human reading cognitive process (i.e., pre-reading, active reading, and post-reading). To measure the effectiveness of HHAS, extensive experiments are conducted on three widely used datasets. Experimental results demonstrate that HHAS achieves impressive results and yields state-of-the-art results on the three datasets.}
+}
+2018
+1.@ARTICLE{8064213,
+  author={Yan, Yuguang and Wu, Qingyao and Tan, Mingkui and Ng, Michael K. and Min, Huaqing and Tsang, Ivor W.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Online Heterogeneous Transfer by Hedge Ensemble of Offline and Online Decisions}, 
+  year={2018},
+  volume={29},
+  number={7},
+  pages={3252-3263},
+  doi={10.1109/TNNLS.2017.2751102}}
+2.@ARTICLE{8315427,
+  author={Chen, Renjie and Sun, Ning and Chen, Xiaojun and Yang, Min and Wu, Qingyao},
+  journal={IEEE Access}, 
+  title={Supervised Feature Selection With a Stratified Feature Weighting Method}, 
+  year={2018},
+  volume={6},
+  number={},
+  pages={15087-15098},
+  doi={10.1109/ACCESS.2018.2815606}}
+3.@inproceedings{10.5555/3326943.3327025,
+author = {Zhuang, Zhuangwei and Tan, Mingkui and Zhuang, Bohan and Liu, Jing and Guo, Yong and Wu, Qingyao and Huang, Junzhou and Zhu, Jinhui},
+title = {Discrimination-Aware Channel Pruning for Deep Neural Networks},
+year = {2018},
+publisher = {Curran Associates Inc.},
+address = {Red Hook, NY, USA},
+abstract = {Channel pruning is one of the predominant approaches for deep model compression. Existing pruning methods either train from scratch with sparsity constraints on channels, or minimize the reconstruction error between the pre-trained feature maps and the compressed ones. Both strategies suffer from some limitations: the former kind is computationally expensive and difficult to converge, whilst the latter kind optimizes the reconstruction error but ignores the discriminative power of channels. In this paper, we investigate a simple-yet-effective method called discrimination-aware channel pruning (DCP) to choose those channels that really contribute to discriminative power. To this end, we introduce additional discrimination-aware losses into the network to increase the discriminative power of intermediate layers and then select the most discriminative channels for each layer by considering the additional loss and the reconstruction error. Last, we propose a greedy algorithm to conduct channel selection and parameter optimization in an iterative way. Extensive experiments demonstrate the effectiveness of our method. For example, on ILSVRC-12, our pruned ResNet-50 with 30\% reduction of channels outperforms the baseline model by 0.39\% in top-1 accuracy.},
+booktitle = {Proceedings of the 32nd International Conference on Neural Information Processing Systems},
+pages = {883–894},
+numpages = {12},
+location = {Montr\'{e}al, Canada},
+series = {NIPS'18}
+}
+4.@InProceedings{pmlr-v95-huang18a,
+  title = 	 {Cartoon-to-Photo Facial Translation with Generative Adversarial Networks},
+  author =       {Huang, Junhong and Tan, Mingkui and Yan, Yuguang and Qing, Chunmei and Wu, Qingyao and Yu, Zhuliang},
+  booktitle = 	 {Proceedings of The 10th Asian Conference on Machine Learning},
+  pages = 	 {566--581},
+  year = 	 {2018},
+  editor = 	 {Zhu, Jun and Takeuchi, Ichiro},
+  volume = 	 {95},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {14--16 Nov},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v95/huang18a/huang18a.pdf},
+  url = 	 {https://proceedings.mlr.press/v95/huang18a.html},
+  abstract = 	 {Cartoon-to-photo facial translation could be widely used in different applications, such as law enforcement and anime remaking. Nevertheless, current general-purpose image-to-image models \ygyan{usually} %can only	produce blurry or unrelated results in this task. In this paper, we propose a Cartoon-to-Photo facial translation with Generative Adversarial Networks (\name) for inverting cartoon faces to generate photo-realistic and related face images. In order to produce convincing faces with intact facial parts, we exploit global and local discriminators to capture global facial features and three local facial regions, respectively. Moreover, we use a specific content network to capture and preserve face characteristic and identity between cartoons and photos. As a result, the proposed approach can generate convincing high-quality faces that satisfy both the characteristic and identity constraints of input cartoon faces. Compared with recent works on unpaired image-to-image translation, our proposed method is able to generate more realistic and correlative images.}
+}
+5.@article{Cao2018AdversarialLW,
+  title={Adversarial Learning with Local Coordinate Coding},
+  author={Jiezhang Cao and Yong Guo and Qingyao Wu and Chunhua Shen and Junzhou Huang and Mingkui Tan},
+  journal={ArXiv},
+  year={2018},
+  volume={abs/1806.04895},
+  url={https://api.semanticscholar.org/CorpusID:49191089}
+}
+6.@inproceedings{10.1145/3219819.3219948,
+author = {Zhang, Yifan and Zhao, Peilin and Cao, Jiezhang and Ma, Wenye and Huang, Junzhou and Wu, Qingyao and Tan, Mingkui},
+title = {Online Adaptive Asymmetric Active Learning for Budgeted Imbalanced Data},
+year = {2018},
+isbn = {9781450355520},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3219819.3219948},
+doi = {10.1145/3219819.3219948},
+abstract = {This paper investigates Online Active Learning (OAL) for imbalanced unlabeled datastream, where only a budget of labels can be queried to optimize some cost-sensitive performance measure. OAL can solve many real-world problems, such as anomaly detection in healthcare, finance and network security. In these problems, there are two key challenges: the query budget is often limited; the ratio between two classes is highly imbalanced. To address these challenges, existing work of OAL adopts either asymmetric losses or queries (an isolated asymmetric strategy) to tackle the imbalance, and uses first-order methods to optimize the cost-sensitive measure. However, they may incur two deficiencies: (1) the poor ability in handling imbalanced data due to the isolated asymmetric strategy; (2) relative slow convergence rate due to the first-order optimization. In this paper, we propose a novel Online Adaptive Asymmetric Active (OA3) learning algorithm, which is based on a new asymmetric strategy (merging both the asymmetric losses and queries strategies), and second-order optimization. We theoretically analyze its bounds, and also empirically evaluate it on four real-world online anomaly detection tasks. Promising results confirm the effectiveness and robustness of the proposed algorithm in various application domains.},
+booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+pages = {2768–2777},
+numpages = {10},
+keywords = {query budget, anomaly detection, online learning, cost-sensitive learning, imbalance data, active learning},
+location = {London, United Kingdom},
+series = {KDD '18}
+}
+7.@inproceedings{ijcai2018p412,
+  title     = {Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation},
+  author    = {Yuguang Yan and Wen Li and Hanrui Wu and Huaqing Min and Mingkui Tan and Qingyao Wu},
+  booktitle = {Proceedings of the Twenty-Seventh International Joint Conference on
+               Artificial Intelligence, {IJCAI-18}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {2969--2975},
+  year      = {2018},
+  month     = {7},
+  doi       = {10.24963/ijcai.2018/412},
+  url       = {https://doi.org/10.24963/ijcai.2018/412},
+}
+8.@ARTICLE{9201037,
+  author={Deng, Chaorui and Wu, Qi and Wu, Qingyao and Hu, Fuyuan and Lyu, Fan and Tan, Mingkui},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Visual Grounding Via Accumulated Attention}, 
+  year={2022},
+  volume={44},
+  number={3},
+  pages={1670-1684},
+  doi={10.1109/TPAMI.2020.3023438}}
+9.@article{article,
+author = {Guo, Yong and Wu, Qingyao and Deng, Chaorui and Chen, Jian and Tan, Mingkui},
+year = {2018},
+month = {04},
+pages = {},
+title = {Double Forward Propagation for Memorized Batch Normalization},
+volume = {32},
+journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+doi = {10.1609/aaai.v32i1.11717}
+}
+10.@article{Chen_Chen_Yuan_Sun_Wu_2018, title={A Stratified Feature Ranking Method for Supervised Feature Selection}, volume={32}, url={https://ojs.aaai.org/index.php/AAAI/article/view/12172}, DOI={10.1609/aaai.v32i1.12172}, abstractNote={ &lt;p&gt; Most feature selection methods usually select the highest rank features which may be highly correlated with each other. In this paper, we propose a Stratified Feature Ranking (SFR) method for supervised feature selection. In the new method, a Subspace Feature Clustering (SFC) is proposed to identify feature clusters, and a stratified feature ranking method is proposed to rank the features such that the high rank features are lowly correlated. Experimental results show the superiority of SFR. &lt;/p&gt; }, number={1}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Chen, Renjie and Chen, Xiaojun and Yuan, Guowen and Sun, Wenya and Wu, Qingyao}, year={2018}, month={Apr.} }
+11.@article{JIANG201849,
+title = {Multi-instance transfer metric learning by weighted distribution and consistent maximum likelihood estimation},
+journal = {Neurocomputing},
+volume = {321},
+pages = {49-60},
+year = {2018},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2018.09.004},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231218310646},
+author = {Siyu Jiang and Yonghui Xu and Hengjie Song and Qingyao Wu and Michael K. Ng and Huaqing Min and Shaojian Qiu},
+keywords = {Multi-instance learning, Transfer learning, Metric learning, Bag weights estimation, Consistent maximum likelihood estimation},
+abstract = {Multi-Instance learning (MIL) aims to predict labels of unlabeled bags by training a model with labeled bags. The usual assumption of existing MIL methods is that the underlying distribution of training data is the same as that of the testing data. However, this assumption may not be valid in practice, especially when training data from a source domain and testing data from a target domain are drawn from different distributions. In this paper, we put forward a novel algorithm Multi-Instance Transfer Metric Learning (MITML). Specially, MITML first attempts to bridge the distributions of different domains by using the bag weighting method. Then a consistent maximum likelihood estimation method is learned to construct an optimal distance metric and exploited to classify testing bags. Comprehensive experimental results on benchmark datasets have demonstrated that the learning performance of the proposed MITML algorithm is better than those of other state-of-the-art MIL algorithms.}
+}
+2017
+1.@ARTICLE{7883886,
+  author={Wu, Qingyao and Wu, Hanrui and Zhou, Xiaoming and Tan, Mingkui and Xu, Yonghui and Yan, Yuguang and Hao, Tianyong},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources}, 
+  year={2017},
+  volume={29},
+  number={7},
+  pages={1494-1507},
+  doi={10.1109/TKDE.2017.2685597}}
+2.@ARTICLE{7460200,
+  author={Li, Xutao and Ng, Michael K. and Cong, Gao and Ye, Yunming and Wu, Qingyao},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={MR-NTD: Manifold Regularization Nonnegative Tucker Decomposition for Tensor Data Dimension Reduction and Representation}, 
+  year={2017},
+  volume={28},
+  number={8},
+  pages={1787-1800},
+  doi={10.1109/TNNLS.2016.2545400}}
+3.@ARTICLE{7855802,
+  author={Xu, Yonghui and Pan, Sinno Jialin and Xiong, Hui and Wu, Qingyao and Luo, Ronghua and Min, Huaqing and Song, Hengjie},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={A Unified Framework for Metric Transfer Learning}, 
+  year={2017},
+  volume={29},
+  number={6},
+  pages={1158-1171},
+  doi={10.1109/TKDE.2017.2669193}}
+4.@ARTICLE{7883886,
+  author={Wu, Qingyao and Wu, Hanrui and Zhou, Xiaoming and Tan, Mingkui and Xu, Yonghui and Yan, Yuguang and Hao, Tianyong},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources}, 
+  year={2017},
+  volume={29},
+  number={7},
+  pages={1494-1507},
+  doi={10.1109/TKDE.2017.2685597}}
+5.@article{article,
+author = {Xu, Yonghui and Min, Huaqing and Wu, Qingyao and Song, Hengjie and Ye, Bicui},
+year = {2017},
+month = {02},
+pages = {41831},
+title = {Multi-Instance Metric Transfer Learning for Genome-Wide Protein Function Prediction},
+volume = {7},
+journal = {Scientific Reports},
+doi = {10.1038/srep41831}
+}
+6.@article{HAO201743,
+title = {Leveraging question target word features through semantic relation expansion for answer type classification},
+journal = {Knowledge-Based Systems},
+volume = {133},
+pages = {43-52},
+year = {2017},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2017.06.030},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705117303106},
+author = {Tianyong Hao and Wenxiu Xie and Qingyao Wu and Heng Weng and Yingying Qu},
+keywords = {Answer type identification, Classification, Question target, WordNet},
+abstract = {Answer type classification is a vital step of question answering systems to detect the most suitable target answer type. Highly accurate identification and classification of an answer type can help identify users’ question targets and filter out irrelevant candidate answers to improve system performances. This paper proposes a novel hybrid approach, named as ATICM, for automated answer type identification and classification by utilizing both syntactic and semantic analysis. We firstly propose to integrate four strategies to identify question target features by using dependency relations and rules. Afterwards, we leverage semantic relations to expand the extracted features. Our experiment datasets are publicly available UIUC and TREC10 annotated question datasets. The result shows the ATICM approach achieves an accuracy of 93.9% on the UIUC dataset and 92.8% on the TREC10 dataset. The performance outperforms the state-of-the-art baseline methods, demonstrating its effectiveness in answer type classification.}
+}
+7.@InProceedings{pmlr-v77-cao17a,
+  title = 	 {On the Flatness of Loss Surface for Two-layered ReLU Networks},
+  author = 	 {Cao, Jiezhang and Wu, Qingyao and Yan, Yuguang and Wang, Li and Tan, Mingkui},
+  booktitle = 	 {Proceedings of the Ninth Asian Conference on Machine Learning},
+  pages = 	 {545--560},
+  year = 	 {2017},
+  editor = 	 {Zhang, Min-Ling and Noh, Yung-Kyun},
+  volume = 	 {77},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Yonsei University, Seoul, Republic of Korea},
+  month = 	 {15--17 Nov},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v77/cao17a/cao17a.pdf},
+  url = 	 {https://proceedings.mlr.press/v77/cao17a.html},
+  abstract = 	 {Deep learning has achieved unprecedented practical success in many applications. Despite its empirical success, however, the theoretical understanding of deep neural networks still remains a major open problem. In this paper, we explore properties of two-layered ReLU networks. For simplicity, we assume that the optimal model parameters (also called ground-truth parameters) are known. We then assume that a network receives Gaussian input and is trained by minimizing the expected squared loss between the prediction function of the network and a target function. To conduct the analysis, we propose a normal equation for critical points, and study the invariances under three kinds of transformations, namely, scale transformation, rotation transformation and perturbation transformation. We prove that these transformations can keep the loss of a critical point invariant, thus can incur flat regions. Consequently, how to escape from flat regions is vital in training neural networks.}
+}
+8.@inproceedings{ijcai2017p454,
+  author    = {Yuguang Yan and Wen Li and Michael Ng and Mingkui Tan and Hanrui Wu and Huaqing Min and Qingyao Wu},
+  title     = {Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI-17}},
+  pages     = {3252--3258},
+  year      = {2017},
+  doi       = {10.24963/ijcai.2017/454},
+  url       = {https://doi.org/10.24963/ijcai.2017/454},
+}
+9.@INPROCEEDINGS{8215575,
+  author={Han, Chao and Wu, Qingyao and Ng, Michael K. and Cao, Jiezhang and Tan, Mingkui and Chen, Jian},
+  booktitle={2017 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Tensor Based Relations Ranking for Multi-relational Collective Classification}, 
+  year={2017},
+  volume={},
+  number={},
+  pages={901-906},
+  doi={10.1109/ICDM.2017.112}}
+10.@INPROCEEDINGS{8237489,
+  author={Chen, Xiaojun and Haung, Joshua Zhexue and Nie, Feiping and Chen, Renjie and Wu, Qingyao},
+  booktitle={2017 IEEE International Conference on Computer Vision (ICCV)}, 
+  title={A Self-Balanced Min-Cut Algorithm for Image Clustering}, 
+  year={2017},
+  volume={},
+  number={},
+  pages={2080-2088},
+  doi={10.1109/ICCV.2017.227}}
+11.@inproceedings{inproceedings,
+author = {Li, Jinxia and Zheng, Yihan and Han, Chao and Wu, Qingyao and Chen, Jian},
+year = {2017},
+month = {09},
+pages = {450-460},
+title = {Extremely Randomized Forest with Hierarchy of Multi-label Classifiers},
+isbn = {978-3-319-67776-7},
+doi = {10.1007/978-3-319-67777-4_40}
+}
+2016
+1.@ARTICLE{7492171,
+  author={Wu, Qingyao and Tan, Mingkui and Song, Hengjie and Chen, Jian and Ng, Michael K.},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={ML-FOREST: A Multi-Label Tree Ensemble Method for Multi-Label Classification}, 
+  year={2016},
+  volume={28},
+  number={10},
+  pages={2665-2680},
+  doi={10.1109/TKDE.2016.2581161}}
+2.@article{article,
+author = {Han, Chao and Tan, Yun-Kun and Zhu, Jin-Hui and Guo, Yong and Chen, Jian and Wu, Qing-Yao},
+year = {2016},
+month = {07},
+pages = {673-682},
+title = {Online Feature Selection of Class Imbalance via PA Algorithm},
+volume = {31},
+journal = {Journal of Computer Science and Technology},
+doi = {10.1007/s11390-016-1656-0}
+}
+3.@article{XU201630,
+title = {Multi-instance multi-label distance metric learning for genome-wide protein function prediction},
+journal = {Computational Biology and Chemistry},
+volume = {63},
+pages = {30-40},
+year = {2016},
+note = {APBC2016},
+issn = {1476-9271},
+doi = {https://doi.org/10.1016/j.compbiolchem.2016.02.011},
+url = {https://www.sciencedirect.com/science/article/pii/S147692711630041X},
+author = {Yonghui Xu and Huaqing Min and Hengjie Song and Qingyao Wu},
+keywords = {Protein function prediction, Genome wide, Distance metric learning, Machine learning, Multi-instance multi-label learning},
+abstract = {Multi-instance multi-label (MIML) learning has been proven to be effective for the genome-wide protein function prediction problems where each training example is associated with not only multiple instances but also multiple class labels. To find an appropriate MIML learning method for genome-wide protein function prediction, many studies in the literature attempted to optimize objective functions in which dissimilarity between instances is measured using the Euclidean distance. But in many real applications, Euclidean distance may be unable to capture the intrinsic similarity/dissimilarity in feature space and label space. Unlike other previous approaches, in this paper, we propose to learn a multi-instance multi-label distance metric learning framework (MIMLDML) for genome-wide protein function prediction. Specifically, we learn a Mahalanobis distance to preserve and utilize the intrinsic geometric information of both feature space and label space for MIML learning. In addition, we try to deal with the sparsely labeled data by giving weight to the labeled data. Extensive experiments on seven real-world organisms covering the biological three-domain system (i.e., archaea, bacteria, and eukaryote; Woese et al., 1990) show that the MIMLDML algorithm is superior to most state-of-the-art MIML learning algorithms.}
+}
+4.@article{NG2016763,
+title = {A fast Markov chain based algorithm for MIML learning},
+journal = {Neurocomputing},
+volume = {216},
+pages = {763-777},
+year = {2016},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2016.08.033},
+url = {https://www.sciencedirect.com/science/article/pii/S092523121630875X},
+author = {Michael K. Ng and Qingyao Wu and Chenyang Shen},
+keywords = {Multi-Instance Multi-Label Learning, Markov Chains, Iterative Method, Labels Propagation},
+abstract = {Multi-instance multi-label (MIML) learning is one of challenging research problems in machine learning. In the literature, there are several methods for solving MIML problems. However, they may take a long computational time and have a huge storage cost for large MIML data sets. The main aim of this paper is to propose and develop an efficient Markov Chain learning algorithm for MIML problems, especially for data represented by non-negative features. Our idea is to perform labels classification iteratively through two Markov chains constructed by using objects and features respectively. The classification of objects can be obtained by using labels propagation via training data in the iterative method. Moreover, we demonstrate that the proposed method can be formulated by considering normalized linear kernel. Because linear kernel function is explicit and separable, it is not necessary to compute and store a huge affinity matrix among objects/instances compared with the use of other kernel functions. Therefore, both the storage and computational time of the proposed algorithm are very efficient. Experimental results are presented to show that the classification performance of the proposed method using normalized linear kernel function is about the same as those using the other kernel functions, while the required computational time is much less, which together suggest that the linear kernel can be good enough for MIML problem. Also experimental results on some benchmark data sets are reported to illustrate the effectiveness of the proposed method in one-error, ranking loss, coverage and average precision, and show that it is competitive with the other MIML methods.}
+}
+5.@inproceedings{Yan2016OnlineHT,
+  title={Online Heterogeneous Transfer Learning by Weighted Offline and Online Classifiers},
+  author={Yuguang Yan and Qingyao Wu and Mingkui Tan and Huaqing Min},
+  booktitle={ECCV Workshops},
+  year={2016},
+  url={https://api.semanticscholar.org/CorpusID:6988444}
+}
+6.@INPROCEEDINGS{7822622,
+  author={Feng Wu and Qiong Liu and Tianyong Hao and Xiaojun Chen and Wu, Qingyao},
+  booktitle={2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={Online Multi-Instance Multi-Label learning for protein function prediction}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={780-785},
+  doi={10.1109/BIBM.2016.7822622}}
+7.@InProceedings{10.1007/978-3-319-31753-3_1,
+author="Liao, Yongxin
+and Yuan, Shenxi
+and Chen, Jian
+and Wu, Qingyao
+and Li, Bin",
+editor="Bailey, James
+and Khan, Latifur
+and Washio, Takashi
+and Dobbie, Gill
+and Huang, Joshua Zhexue
+and Wang, Ruili",
+title="Joint Classification with Heterogeneous Labels Using Random Walk with Dynamic Label Propagation",
+booktitle="Advances in Knowledge Discovery and Data Mining",
+year="2016",
+publisher="Springer International Publishing",
+address="Cham",
+pages="3--13",
+abstract="This paper studies a new machine learning strategy called joint classification with heterogeneous labels (JCHL). Unlike traditional supervised learning problems, JCHL uses a single feature space to jointly classify multiple classification tasks with heterogeneous labels. For instance, biologists usually have to label the gene expression images with developmental stages and simultaneously annotate their anatomical terms. We would like to classify the developmental stages and at the same time classify anatomical terms by learning from the gene expression data. Recently, researchers have considered using Preferential random walk (PRW) to build different relations to link heterogeneous labels, thus the heterogeneous label information can be propagated by the instances. On the other hand, it has been shown that learning performance can be significantly enhanced if the dynamic propagation is exploited in PRW. In this paper, we propose a novel algorithm, called random walk with dynamic label propagation (RWDLP), for the JCHL problems. In RWDLP, a joint transition probability graph is constructed to encode the relationships among instances and heterogeneous labels, and we utilize dynamic label propagation in the graph to generate the possible labels for the joint classification tasks with heterogeneous labels. Experimental results have demonstrated the effectiveness of the proposed method.",
+isbn="978-3-319-31753-3"
+}
+8.@article{10.1145/2834122,
+author = {Song, Hengjie and Xu, Yonghui and Min, Huaqing and Wu, Qingyao and Wei, Wei and Weng, Jianshu and Han, Xiaogang and Yang, Qiang and Shi, Jialiang and Gu, Jiaqian and Miao, Chunyan and Toyoaki, Nishida},
+title = {Individual Judgments Versus Consensus: Estimating Query-URL Relevance},
+year = {2016},
+issue_date = {February 2016},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {10},
+number = {1},
+issn = {1559-1131},
+url = {https://doi.org/10.1145/2834122},
+doi = {10.1145/2834122},
+abstract = {Query-URL relevance, measuring the relevance of each retrieved URL with respect to a given query, is one of the fundamental criteria to evaluate the performance of commercial search engines. The traditional way to collect reliable and accurate query-URL relevance requires multiple annotators to provide their individual judgments based on their subjective expertise (e.g., understanding of user intents). In this case, the annotators’ subjectivity reflected in each annotator individual judgment (AIJ) inevitably affects the quality of the ground truth relevance (GTR). But to the best of our knowledge, the potential impact of AIJs on estimating GTRs has not been studied and exploited quantitatively by existing work. This article first studies how multiple AIJs and GTRs are correlated. Our empirical studies find that the multiple AIJs possibly provide more cues to improve the accuracy of estimating GTRs. Inspired by this finding, we then propose a novel approach to integrating the multiple AIJs with the features characterizing query-URL pairs for estimating GTRs more accurately. Furthermore, we conduct experiments in a commercial search engine—Baidu.com—and report significant gains in terms of the normalized discounted cumulative gains.},
+journal = {ACM Trans. Web},
+month = {jan},
+articleno = {3},
+numpages = {21},
+keywords = {performance evaluation, Web search, relevance feedback}
+}
